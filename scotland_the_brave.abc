@@ -1,0 +1,19 @@
+%abc-2.2
+%%landscape 1
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+X:1
+T:Scotland the Brave
+R:March
+C:Arr. WUSPBA
+L:1/8
+M:4/4
+K:D
+[| e | {g}A2 {GdGc}A>B {gcd}c{e}A {gcd}ce | {ag}a2 {g}a2 {GdG}ae {gcd}c{e}A | {Gdc}d2 {g}f>d {gcd}ce {gcd}c{e}A | {gBd}B2 {gef}e2 {A}e>f {g}ed{g}c{d}B |
+{g}A2 {GdGe}A>B {gcd}c{e}A {gcd}ce | {ag}a2 {g}a2 {GdG}ae {gcd}c{e}A | {Gdc}d2 {g}f>d {gcd}ce {gcd}c{e}A | {gBd}B2 {e}A>B {g}A2 {g}ce |]
+[| {ag}a2 {g}a2 {GdG}ae {gcd}c{e}A | {ag}a2 {g}a2 {GdG}ae {gcd}ce | {ag}a2 {g}a>g {fg}f2 a>g | {fg}fa {f}gf {gef}ed {gcd}cB |
+{g}A2 {GdGe}A>B {gcd}c{e}A {gcd}ce | {ag}a2 {g}a2 {GdG}ae {gcd}c{e}A | {Gdc}d2 {g}f>d {gcd}ce {gcd}c{e}A | {gBd}B2 {e}A>B {G}A3 |]

@@ -1,0 +1,20 @@
+%abc-2.2
+%%landscape 1
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+X:1
+T:The Brown Haired Maiden
+R:March
+C:Trad. / Arr. WUSPBA
+L:1/8
+M:2/4
+K:D
+[|: {g}A | {Gdc}d>c {gBd}B{e}A | {Gdc}d2 {g}A{Gdc}d | {g}fd {gf}gf | {gfg}fe {A}e{gf}g |
+{a}f<a {fg}fa | A {Gdc}d>e | {g}f2 {gf}g{a}e | {Gdc}d2 {gdc}d :|]
+[|: {gf}g | {a}f<a {fg}fa | A2 {Gdc}d>e | {g}fd {gf}gf | {gfg}fe {A}e {gf}g |
+[1 {a}f<a {fg}fa | A2 {Gdc}d>e | {g}f2 {gf}g{a}e | {Gdc}d2 {gdc}d :|]
+[2 {ag}a>g {fg}fa | A2 {Gdc}d>e | {g}f2 {gf}g{a}e | {Gdc}d2 {gdc}d |]

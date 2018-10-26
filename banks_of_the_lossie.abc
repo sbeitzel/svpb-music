@@ -1,0 +1,20 @@
+%abc-2.2
+%%straightflags false
+%%flatbeams true
+%%footer "		Generated: $D"
+%%dateformat "%e %B %Y %H:%M"
+%%graceslurs false
+%%titleformat T0, R-1 C1
+%%landscape 1
+X:1
+T:The Banks of the Lossie
+C:Scots Guards Vol. II
+R:Retreat March
+M:9/8
+L:1/8
+K:D
+Z:Transcribed by Stephen Beitzel
+[|: {gf}g | a2 {GdG}a {fg}f3 {ag}a2 g | {fg}f>{g}ef {Gdc}d2 {e}A3 | {g}A>Bd {gfg}f3 {ag}a2 f | a>fd {gef}e3 {A}e2 {gf}g |
+a2 {GdG}a {fg}f3 {ag}a2 g | {fg}f>{g}ef {Gdc}d3 {e}A3 | {g}A>Bd {gfg}f3 {ag}a2 A | {g}A>{d}ce {Gdc}d3 {gdG}d2 :|]
+[|: f | {g}A>Bd {gdG}d3 {e}A2 d | {g}B<{e}A{d}B {Gdc}d3 {e}A2 f | {gf}g>fe {gfg}f3 {ag}a2 f | a>fd {gef}e3 {A}e2 f |
+{gf}g>fe {gfg}f3 {ag}a2 f | a>fd {gBd}B3 {e}G2 {d}B | {g}A>Bd {gfg}f3 {ag}a2 A | {g}A>{d}ce {Gdc}d3 {gdG}d2 :|]

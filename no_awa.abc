@@ -1,0 +1,17 @@
+%abc-2.2
+%%landscape 1
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+X:1
+T:Cornwath Mill (No Awa' tae Bide Awa')
+R:March
+C:Arr. WUSPBA
+L:1/8
+M:4/4
+K:D
+{g}AB | {GdG}c3 e {g}dc {g}B{G}A | {gcd}c2 {e}A2 {GAG}A2 {gcd}ce | a3 {g}a {g}ag {fg}fe | {g}f4 {gef}e2 {g}fg |
+a2 {GdG}a2 {g}a3 c | {Gdc}d2 f2 {gef}e3 {A}e | {g}f2 e2 {ag}a2 c2 | {gBd}B4 {G}A2 |

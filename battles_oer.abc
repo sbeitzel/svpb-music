@@ -1,0 +1,19 @@
+%abc-2.2
+%%landscape 1
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+X:1
+T:When the Battle's O'er
+R:Retreat March
+C:P/M William Robb / Arr. WUSPBA
+L:1/8
+M:3/4
+K:D
+[|: {g}A>B {GdG}c2 {ag}a2 | {fg}fe {gcd}c2 {G}A2 | {g}A>B {GdG}c2 {gef}e>c | {gBd}B{G}A {GdG}B4 |
+{g}A>B {GdG}c2 {ag}a2 | {fg}fe {gcd}c2 {G}A2 | {g}A>B {GdG}c2 {gef}e>c | {g}B>c {G}A4 :|]
+[|: {gef}e>c {gBd}B2 {G}A2 | {ag}a>g {fg}f2 {g}e2 | {g}A>B {GdG}c2 {gef}e>c | {gBd}B{G}A {GdG}B4 |
+{gef}e>c {gBd}B2 {G}A2 | {ag}a>g {fg}f2 {g}e2 | {g}A>B {GdG}c2 {gef}e>c | {g}B>c {G}A4 :|]

@@ -1,0 +1,47 @@
+%abc-2.1
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%titleformat T0, R-1 C1
+%%scale 0.65
+%%footer "SVPB					2017.11.30"
+%%landscape 0
+X:1
+T:Dr. Al Walker
+C:Adam Blaine
+R:March
+M:6/8
+L:1/8
+K:D
+N:Composed in honor of P.M. Dr. Al Walker
+[|: {g}f>ed {gef}e2 {AGAG}A | {g}B<dB {g}A2 {GdGe}A | {g}f>ed {g}e>fa | {fg}f3 {g}e2 {GdG}e |
+{g}f>ed {gef}e2 {AGAG}A | {g}B<dB {g}A2 {GdGe}A | a>g{a}f {gf}g>e{g}c | [1 {Gdc}d3 {gdG}d2 e :|] [2 {Gdc}d3 {gdG}d>{g}ed|]
+[|: {g}B>cd {gcd}c2 {GdGe}A | {Gdc}d>ef {gef}e2 {AGAG}A | {g}B>cd {g}e>fa | {fg}f3 {g}e2 {AGAG}A |
+[1{g}B>cd {gcd}c2 {GdGe}A | {Gdc}d>ef {gef}e2 {AGAG}A | a>g{a}f {gf}g>e{g}c | {Gdc}d3 {gdG}d>{g}ed :|]
+[2 {g}f>ed {gef}e2 {AGAG}A | {g}B<dB {g}A2 {GdGe}A | a>g{a}f {gf}g>e{g}c | {Gdc}d3 {gdG}d2 f |]
+[|: {g}A2 {GdGe}A {g}B<dB | {g}A>gf {g}e2 {GdG}e | {g}A>Bd {g}e>fa | {fg}f3 {g}e2 f |
+{g}A2 {GdGe}A {g}B<dB | {g}A>gf {g}e2 {gf}g |  a>g{a}f {gf}g>e{g}c | [1 {Gdc}d3 {gdG}d2 f :|] [2 {Gdc}d3 {gdG}d2 e |]
+[|: {g}f>ga {Gdc}d2 c | {g}B>cd {g}A {GdGe}A | {g}B>cd {g}e>fa | {fg}f3 {g}e2 {GdG}e |
+[1 {g}f>ga {Gdc}d2 c | {g}B>cd {g}A {GdGe}A | a>g{a}f {gf}g>e{g}c | {Gdc}d3 {gdG}d2 e :|]
+[2 {g}f>ed {gef}e2 {AGAG}A | {g}B<dB {g}A2 {GdGe}A | a>g{a}f {gf}g>e{g}c | {Gdc}d3 {gdG}d2 |]
+
+X:2
+T:Hana's Wedding
+C:Erik J. Leiken, Arr. Adam Blaine
+R:March
+M:6/8
+L:1/8
+K:D
+[|: {g}f<e | {Gdc}d3 {g}A>d{G}d | {gde}d>cd {g}f>ed | {g}G>{d}G{e}G {g}G>Bd | {gcd}c>B{d}c {g}A>fe |
+{Gdc}d3 {g}A>d{G}d | {gde}d>cd {g}f>ga | G>Bd {gcd}c>B{G}A | {g}A>{d}ce {Gdc}d2 :|]
+{gf}g | {ag}a2 f {g}A>d{G}d | {gde}d>cd {g}f>ed | {g}G>{d}G{e}G {g}G>Bd | {gcd}c>B{d}c {g}A2 {gf}g |
+{ag}a2 f {g}A>d{G}d | {gde}d>cd {g}f>ga | G>Bd {gcd}c>B{G}A | {g}A>{d}ce {Gdc}d2 {gf}g |
+{ag}a2 f {g}A>d{G}d | {gde}d>cd {g}f>ed | {g}G>{d}G{e}G {g}G>Bd | {gcd}c>B{d}c {g}A>fe |
+{Gdc}d3 {g}A>d{G}d | {gde}d>cd {g}f>ga | G>Bd {gcd}c>B{G}A | {g}A>{d}ce {Gdc}d2 ||
+|: A | {g}d>ef {g}A2 {GdGe}A | {g}d>ef {ag}a2 f | {g}G>{d}G{e}G {g}G>Bd | {gcd}c>B{d}c {g}A>fe |
+{g}d>ef {g}A2 {GdGe}A | {g}d>ef {g}f>ga |  G>Bd {gcd}c>B{G}A | {g}A>{d}ce {Gdc}d2 :|]
+{gf}g | {ag}a>de {gfg}f2 d | A>df a>fd | {g}G>{d}G{e}G {g}G>Bd | {gcd}c>B{d}c {g}A2 {gf}g |
+{ag}a>de {gfg}f2 d | {g}A>df {g}f>ga | G>Bd {gcd}c>B{G}A | {g}A>{d}ce {Gdc}d2 {gf}g |
+{ag}a>de {gfg}f2 d | A>df a>fd | {g}G>{d}G{e}G {g}G>Bd | {gcd}c>B{d}c {g}A>fe |
+{g}d>ef {g}A2 {GdGe}A | {g}d>ef {g}f>ga |  G>Bd {gcd}c>B{G}A | {g}A>{d}ce {Gdc}d2 |]
+
