@@ -1,0 +1,27 @@
+%abc-2.2
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%dateformat "%e %B %Y %H:%M"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+X:1
+T:Hyfrydol
+R:GIVING OUT
+C:Rowland Hugh Pritchard / Martin Shaw
+M:3/4
+L:1/4
+Z:Transposed and transcribed 10/2/2018
+K:D
+[|: A2 B | A> B c | d2 c | B A B | e2 d | c2 c | B A B | A3 :|]
+[| e2 e | e d c | d2 d | d c B | c2 c | c d e | e d c | B3 |
+e c e | d B d | c A c | B/c/ d/c/ B | e2 e | d e d | c2 B | A3 |]
+% the previous 3 lines get repeated as a unit one time
+[|: A2 B | A> B c | d2 c | B A B | e2 d | c2 c | B A B | A3 :|]
+[| e2 e | e d c | d2 d | d c B | c2 c | c d e | e d c | B3 |
+e c e | d B d | c A c | B/c/ d/c/ B | e2 e | d e d | c2 B | A3 |]
+% and now we get to the third verse, which is a little different
+A2 B [|: A> B c | d2 c | B A B | e2 d | c2 c | B A B |1 A3 | A2 B :|]
+|2 A3 || e2 e | e d c | d2 d | d c B | c2 c | c d e |
+e d c | B3 | e c e | d B d | c A c |
+B/c/ d/c/ B | e2 e | d e d | c2 B | A3 |]
