@@ -1,0 +1,19 @@
+%abc-2.2
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%dateformat "%e %B %Y %H:%M"
+%%landscape 0
+X:1
+T:Auld Lang Syne
+C:Trad.
+R:Air
+M:2/4
+L:1/8
+K:D
+e | {g}A>{d}A {e}A{d}c | {gBd}B>{G}A {g}B{g}c/B/ | {g}A>{GAG}A {gcd}ce | {g}f3 {e}f |
+{g}e>c {gcd}c{e}A | {gBd}B>{G}A {g}B{g}c/B/ | {g}A>f {gfg}f{g}e | {G}A3 f |
+{g}e>c {gcd}c{e}A | {gBd}B>{G}A {g}Bf | {g}e>c {gcd}ce | {g}f3 a |
+{ef}e>c {gcd}{e}A | {gBd}B>{G}A {g}B{g}c/B/ | {g}A>f {gfg}f{g}e | {G}A3 |

@@ -22,7 +22,7 @@ PARADE = banks_of_the_lossie.abc Moonstar.abc al_walker_hana.abc irish_set.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonny_dundee.abc \
 	brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
 	no_awa.abc rowan_tree.abc
-CHRISTMAS = highland_cathedral.abc
+CHRISTMAS = highland_cathedral.abc hyfrydol.abc auld_lang_syne.abc
 
 ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(CHRISTMAS) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
