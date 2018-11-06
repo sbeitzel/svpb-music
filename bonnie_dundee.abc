@@ -7,13 +7,13 @@
 %%graceslurs false
 %%dateformat "%e %B %Y %H:%M"
 X:1
-T:Bonny Dundee
+T:Bonnie Dundee
 R:March
 C:Arr. WUSPBA
 L:1/8
 M:6/8
 K:D
-[|: {g}c/d/ | {g}e2 {GdG}e {gef}e>{g}c e | a>g{a}f {gef}e2 d | {g}c<e{g}A {g}c<ec | {g}B2 {GdGe}B {gBd}B>{g}cd |
+[|: {g}c/d | {g}e2 {GdG}e {gef}e>{g}ce | a>g{a}f {gef}e2 d | {g}c<e{g}A {g}c<ec | {g}B2 {GdGe}B {gBd}B>{g}cd |
 {g}e2 {GdG}e {gef}e>{g}ce | a>g{a}f {gef}e2 d | {g}c<e{g}A {g}c<ec | {g}A2 {GdGe}A {GAG}A2 :|]
-[|: G | {g}A {GdGe}A {Gdc}d2 c | {g}B2 {GdGe}B {gBd}B3 | {g}B2 {GdGe}B {g}B>cd | {g}c2 {GdGe}c {gcd}c2 {e}A |
+[|: G | {g}A2 {GdGe}A {Gdc}d2 c | {g}B2 {GdGe}B {gBd}B3 | {g}B2 {GdGe}B {g}B>cd | {g}c2 {GdGe}c {gcd}c2 {e}A |
 {gcd}c>{e}B{d}c {Gdc}d>{g}cd | {g}e2 {GdG}e {gfg}f>ed | {g}c<e{g}A {g}c<ec | {g}A2 {GdGe}A {GAG}A2 :|]
