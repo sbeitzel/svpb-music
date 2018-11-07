@@ -2,10 +2,18 @@
 # generate all the music for the band binder
 # `make binder`
 #
+
 RM = rm
 
+# The command which will be called with an ABC file as the one argument and which
+# will generate the PostScript file.
 ABC = abcm2ps -p -O =
-PDF = ps2pdf
+
+# The command which will convert the PostScript file to a PDF file. On Mac OSX, the
+# utility pstopdf ships with the operating system and is located at /usr/bin/pstopdf
+# while non-Mac systems will generally have to install something else, such as
+# GhostScript. GhostScript provides ps2pdf.
+PDF = pstopdf
 
 # This python script ships with Mac OS X and is probably found
 # at /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py
