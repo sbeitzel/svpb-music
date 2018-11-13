@@ -13,7 +13,7 @@ C:G.S. McLennan
 R:March
 Z:Transcribed by Stephen Beitzel
 K:D
-[|: a/>f/ | {gef}ec {gcd}c{g}B/<{d}A/ | {gcd}ce {A}e{g}f/>g/ | a/>g/{fg}f/>e/ {ag}aA | {gcd}c{e}B {GdGe}Ba/>f |
+[|: a/>f/ | {gef}ec {gcd}c{g}B/<{d}A/ | {gcd}ce {A}e{g}f/>g/ | a/>g/{fg}f/>e/ {ag}ac | {gcd}c{e}B {GdGe}Ba/>f |
 {gef}ec {gcd}c{g}B/<{d}A/ | {gcd}ce {A}e{g}f/>g/ | a/>g/{fg}f/>e/ {ag}aA | {gcd}c{e}A {GAG}A :|]
 [|: {g}c/>d/ | {gef}ea {fg}fa | {ef}ec {gcd}c{g}B/<{d}A/ | {Gdc}d-d/>f/ {gef}e/>c/{g}B/<{d}A/ | {gcd}c{e}B {GdGe}B{g}c/>d/ |
 {gef}ea {fg}fa | {ef}ec {gef}e{g}f/>g/ | a/>g/{fg}f/>e/ {ag}aA | {gcd}c{e}A {GAG}A :|]
@@ -33,8 +33,8 @@ K:D
 || {ag}a>A {gAGAG}A2 {g}f>A {gAGAG}A2 | {g}B<d {gde}d>B {g}A2 {GAG}A>f | {ag}a>A {gAGAG}A2 {g}f>A {gAGAG}A2 | {g}f<a {g}a>f {gef}e2 {A}e>f |
 {ag}a>A {gAGAG}A2 {g}f>A {gAGAG}A2 | {g}B<d {gde}d>B {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>f ||
 || {g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>f | {g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {gdG}d>e {g}f/e/d {gef}e2 {A}e>f |
-{g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>f ||
-|| {a}f/g/a d/e/f {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f/g/a d/e/f {gef}e>d {g}e<f | {Gdc}d>e {g}f/e/d {gef}e2 {A}e>f |
+{g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>g ||
+|| {a}f/g/a d/e/f {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f/g/a d/e/f {gef}e>d {g}e<f | {Gdc}d>e {g}f/e/d {gef}e2 {A}e>g |
 {a}f/g/a d/e/f {gBd}B>A{g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}Ag | {a}f<a {g}a>f {gef}e>d {g}e/f/a | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>f ||
 X:3
 T:Kildonan
