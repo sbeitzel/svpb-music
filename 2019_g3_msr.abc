@@ -43,11 +43,11 @@ C:Donald MacLeod / Arr. Alasdair Gillies
 M:C|
 L:1/8
 K:D
-{gef}e2 {g}c<{d}A {g}fe{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Bf | {gef}e2 {g}c<{d}A {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}A f |
-{gef}e2 {g}c<{d}A {g}fe{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Bf | {gef}e2 {g}c<e {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}A e ||
-|| {ag}a2 ef ae{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Be | {ag}a2 ef ae{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}A e |
-{ag}a2 ef ae{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Bf | {gef}e2 {g}c<e {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}A e ||
+{gef}e2 {g}c<{d}A {g}fe{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Bf | {gef}e2 {g}c<{d}A {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}Af |
+{gef}e2 {g}c<{d}A {g}fe{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Bf | {gef}e2 {g}c<e {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}Ae ||
+|| {ag}a2 ef ae{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Be | {ag}a2 ef ae{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}Ae |
+{ag}a2 ef ae{g}f<a | {ef}e2 {g}c<{d}A {g}B{d}B{e}Bf | {gef}e2 {g}c<e {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}Ae ||
 || {g}A{d}A{e}AB {gcd}c2 {gef}ec | {g}B<{d}A{g}B<{d}c {g}B{d}B{e}Be | {g}A{d}A{e}AB {gcd}c2 {gef}ec | {g}B<{d}A{g}B<{d}c {g}A{d}A{e}Aa |
-A{d}A{e}AB{gcd}c2 {gef}ec | {g}B<{d}A{g}B<{d}c {g}B{d}B{e}Bf | {gef}e2 {g}c<e {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}A e ||
-|| {g}f<aef ae{g}f<a | fe{g}c<{d}A {g}B{d}B{e}Be | {g}f<aef ae{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}A e |
-{g}f<aef ae{g}f<a | fe{g}c<{d}A {g}B{d}B{e}Bf | {gef}eA{d}c<e {g}fgaf | {g}ec{g}B<{d}c {g}A{d}A{e}A ||
+A{d}A{e}AB{gcd}c2 {gef}ec | {g}B<{d}A{g}B<{d}c {g}B{d}B{e}Bf | {gef}e2 {g}c<e {g}fe{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}Ae ||
+|| {g}f<aef ae{g}f<a | fe{g}c<{d}A {g}B{d}B{e}Be | {g}f<aef ae{g}f<a | {cd}c2 {g}B<{d}c {g}A{d}A{e}Ae |
+{g}f<aef ae{g}f<a | fe{g}c<{d}A {g}B{d}B{e}Bf | {gef}eA{d}c<e {g}fgaf | {g}ec{g}B<{d}c {g}A{d}A{e}A |]

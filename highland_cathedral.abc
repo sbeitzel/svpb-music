@@ -13,7 +13,7 @@ C:Michael Korb / Ulrich Roever
 L:1/8
 M:4/4
 K:D
-[| {Gdc}d3 e/f/ {gef}ed {g}Ad | {gef}e3 f {e}f4 | {GdG}f3 g/a/ {f}gf {g}ed | {gef}e3 f {AGAG}A4 |
-{GdG}B3 c/d/ {c}d{e}A {g}cd | {ag}a3 g {a}f4 | {gef}e3 f/g/ {a}fd {g}Ad | {gef}e3 d {gdc}d4 |
-{gcd}c3 {g}A {gef}e3 c/e/ | {g}f3 c {GdG}c3 B | {G}A2 {g}A/B/c {gBd}B4 | {d}c2 {g}c/d/e {gBd}B4 |
-{gcd}c3 {e}A {gef}e3 c/e/ | {g}f3 c {GdG}c3 B | {G}A2 {g}A/B/c {gBd}B3 {G}A | {gAGAG}A8 |]
+[| {Gdc}d3 e/f/ {g}ed {g}Ad | {gef}e3 f {gfg}f4 | {g}f3 g/a/ {f}gf {g}ed | {gef}e3 f {AGAG}A4 |
+{GdG}B3 c/d/ {g}dA {g}cd | {ag}a3 g {fg}f4 | {g}e3 f/g/ {a}fd {e}Ad | {gef}e3 d {gdG}d4 |
+{gcd}c3 {e}A {gef}e3 c/e/ | {g}f3 c {GdG}c3 B | {G}A2 {g}A/B/c {gBd}B4 | {GdG}c2 {g}c/d/e {gBd}B4 |
+{gcd}c3 {e}A {gef}e3 c/e/ | {g}f3 c {GdG}c3 B | {G}A2 {g}A/B/c {gBd}B3 A | {gAGAG}A8 |]

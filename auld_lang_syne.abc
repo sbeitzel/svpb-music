@@ -13,7 +13,7 @@ R:Air
 M:2/4
 L:1/8
 K:D
-e | {g}A>{d}A {e}A{d}c | {gBd}B>{G}A {g}B{g}c/B/ | {g}A>{GAG}A {gcd}ce | {g}f3 {e}f |
-{g}e>c {gcd}c{e}A | {gBd}B>{G}A {g}B{g}c/B/ | {g}A>f {gfg}f{g}e | {G}A3 f |
-{g}e>c {gcd}c{e}A | {gBd}B>{G}A {g}Bf | {g}e>c {gcd}ce | {g}f3 a |
-{ef}e>c {gcd}{e}A | {gBd}B>{G}A {g}B{g}c/B/ | {g}A>f {gfg}f{g}e | {G}A3 |
+e | {g}A>{d}A {e}A{d}c | {gBd}B>{e}A {GdG}B{gcd}c/B/ | {G}A>{GAG}A {gcd}ce | {fege}f3 {e}f |
+{g}e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{gcd}c/B/ | {G}A>{ge}f {g}fe | {gAGAG}A3 {ge}f |
+{gef}e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{ge}f | {gef}e>c {gcd}ce | {g}f3 {ag}a |
+e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{gcd}c/B/ | {G}A>{ge}f {g}fe | {gAGAG}A3 |

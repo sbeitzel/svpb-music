@@ -15,7 +15,7 @@ M:3/4
 P:AAB
 K:D
 P:A
-[|: {g}A>B {GdG}c2 {Gcd}c{e}A | {g}c{Gdc}d {gef}e2 {A}ef | {gcd}cf {gef}e>c {g}B2 |1 {GdG}Bf {gef}e>c {G}A2 :|2 {GdG}B{G}A {gcd}c>B {G}A2 |]
+[|: {g}A>B {GdG}c2 {gcd}c{e}A | {g}c{Gdc}d {gef}e2 {A}ef | {gcd}cf {gef}e>c {g}B2 |1 {GdG}Bf {gef}e>c {G}A2 :|2 {GdG}B{G}A {gcd}c>B {G}A2 |]
 P:B
-[|: {gcd}ce {ag}a2 {g}a2 | {f}gf {gfg}fe {A}e2 | {g}e>f {gef}ed {gdc}d2 | {g}d>e {gde}dc {GdG}c2 |
-{gcd}ce {ag}a2 {g}a2 | {f}gf {gfg}fe {A}e2 | {g}e>f {gef}e2 {A}e>d | {g}c{Gdc}d {gef}e2 {A}e2 :]
+[|: {gcd}ce {ag}a2 {g}a2 | {f}gf {gfg}fe {A}e2 | {g}e>f {gef}ed {gdG}d2 | {g}d>e {gde}dc {GdG}c2 |
+{gcd}ce {ag}a2 {g}a2 | {f}gf {gfg}fe {A}e2 | {g}e>f {gef}e2 {A}e>d | {g}c{Gdc}d {gef}e2 {A}e2 :|]
