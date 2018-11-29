@@ -46,6 +46,7 @@ K:D
 [|:{g}Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}cAc {g}dAd | {g}eAe {g}f3 |
 {g}Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A :|]
 [|: {g}BfB {g}fed | {g}AeA {g}edc | {g}GdG {g}dcB | {g}cA{g}d A{g}eA |
-{g}BfB {g}fed | {g}AeA {g}edc | {g}Bdf {g}edc | [1 {g}B{d}B{e}B {g}B2 A :|] [2 {g}c2 d2 e2 ||
+{g}BfB {g}fed | {g}AeA {g}edc |1 {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A :|]
+[2 {g}Bdf {g}edB | {g}c2 d2 e2 ||
 {g}BfB {g}fed | {g}AeA {g}edc | {g}GdG {g}dcB | {g}cA{g}d A{g}eA |
 {g}BfB {g}fed | {g}AeA {g}edc | {g}Bdf {g}edc "OFF" [M:1/8]| {g}B |]
