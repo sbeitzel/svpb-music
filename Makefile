@@ -43,7 +43,7 @@ PDFFILES = $(PSFILES:.ps=.pdf)
 # What are the artifacts, and where do they go
 BOX_ROOT = /Users/sbeitzel/Box\ Sync/Silicon\ Valley\ Pipe\ Band/
 G3_DIR = $(BOX_ROOT)Grade\ 3/Bagpipes/
-G4_DIR = $(BOX_ROOT)Grade\ 4/Bagpipes/
+G4_DIR = $(BOX_ROOT)Grade\ 4/Bagpipe/2019\ Sets/
 FULL_DIR = $(BOX_ROOT)Full\ Band/Books/Band\ Tunes\ 2019/
 G3_FILES = $(G3MEDLEY) $(G3MSR)
 G3_PDFS = $(G3_FILES:.abc=.pdf)
