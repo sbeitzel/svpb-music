@@ -38,8 +38,7 @@ L:1/8
 K:D
 [| {g}c{e}c{G}ce {g}fc{g}ec | {g}c{G}c{g}ec {g}Bc{g}AB | {g}c{e}c{G}ce {g}fc{g}ec | {g}dB{g}cA {g}B2 {g}AB |
 {g}c{e}c{G}ce {g}fc{g}ec | {g}c{G}c{g}ec {g}Bc{g}AB | {g}c{e}c{G}ce {g}fc{g}ec | {g}dB{g}cA {g}B2 {g}ce |]
-[| {ag}a3 f {g}eA{d}ce | a2 {g}ae {g}fe{g}fg | {ag}a3 f {g}eA{d}ce | {g}dB{g}cA {g}B2 {g}ce |
-a2 {g}af {g}eA{d}ce | {ag}a3e {g}fe{g}fg | a2 {g}af {g}eA{d}ce | {g}dB{g}cA {g}B2 {g}cB | {G}A8 |]
+[|: {ag}a3 f {g}eA{d}ce | a2 {g}ae {g}fe{g}fg | {ag}a3 f {g}eA{d}ce |1 {g}dB{g}cA {g}B2 {g}ce :|[2 {g}dB{g}cA {g}B2 {g}cB | {G}A8 |]
 X:4
 T:Mo Ghile Mear
 R:Slow Air
@@ -47,12 +46,11 @@ Z:Transcribed 1 July, 2010 by Stephen Beitzel
 C:Trad., Arr. Adam Blaine
 M:4/4
 L:1/8
+Q:"88 bpm"
 K:D
 [| {g}A3{d}A {e}A2 B2 | {g}d2<e2 {g}f4 | {gf}g2 fe {gfg}f3 e | {g}d2<B2 {G}A4 |
 | {Gdc}d3c {gBd}B2 {G}A2 | {Gdc}d2 e2 {g}f2 {gf}g2 | {ag}a4 {GdG}a2 {e}f2 | {gef}e3 d{gdG}d4 ||
 | {g}f2 a2{g}a3 f | {gef}e2 d2 {gdG}d3 e | {g}f2a2{g}a3f | {g}ef/e/ d2 {gef}e4 |
-| {g}f2 a2 {g}a3 f | {gef}e2 d2 {gdG}d2 {g}ef | {gf}g2 fe {gfg}f3 e | {g}d2<B2 {G}A4 |
-| {g}A3{d}A {e}A2 B2 | {g}"   marked"d2 e2 {g}f4 | {gf}g2 fe {gfg}f3 e | {gde}d2 B2 {G}A4 |
 | {Gdc}d3c {gBd}B2 {G}A2 | {Gdc}"   marked"d2 e2 {g}f2 {gf}g2 | {ag}a4 {GdG}a2 {e}f2 | {gef}e3 d{gdG}"  jig tempo"d4 |]
 X:5
 T:Mull of Kintyre
@@ -63,7 +61,7 @@ L:1/8
 K:D
 [|: {g}G2 {d}B {g}A{d}A{e}A | {g}BdB {g}A{d}A{e}A | {g}G2 {d}B {g}A{d}A{e}A | {g}Bcd {gef}e3 |
 {g}G2 {d}B {g}A{d}A{e}A | {g}BdB {G}A2 a | {fg}fed {g}edB | {g}A3 {Gdc}d3 :|]
-[|: e |{g}f2 d {G}def | {gf}g2 e {A}e2 a | {fg}f2 d {gde}dcd | {g}ec{d}A {GAG}A2 e |
+[|: e |{g}f2 d {G}def | {gf}g2 e {A}e2 a | {fg}f2 d {gde}dcd | {g}ec{G}A {g}A2 e |
 {g}f2 d {G}def | {gf}g2 e {A}e2 a | {fg}fed {g}edB | {g}A3 {Gdc}d3 :|]
 X:6
 T:Catherine Young
