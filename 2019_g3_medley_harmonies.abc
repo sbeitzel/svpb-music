@@ -1,0 +1,42 @@
+%abc-2.2
+%%titleformat T0, R-1 C1
+%%footer "Page $P	SVPB G3 Medley 2019	dated: $d"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+%%landscape 1
+X:1
+T:Welsh Dragons
+T:Seconds
+R:Hornpipe
+C:Paul Ritchie, Arr. Adam Blaine
+M:2/4
+L:1/16
+Q:"82 bpm"
+K:D
+[|: {g}A2{g}B{d}c {g}eA{d}ce | {g}fA{g}dA {g}ef{g}e2 | ae{A}ea {g}ae{g}c{d}A | [1 {g}B{e}B{G}BA {g}Bc{G}cB | [2  {g}B2>A2 {g}Bc{G}cB ] |
+[1 {G}A2{g}B{d}c {g}eA{d}ce | {g}fA{g}dA {g}ef{g}e2 | ae{A}ea c{G}cBA | {g}B{G}B{g}eG {g}A2e2 :|]
+[2 {G}A2>{d}c2 {g}eA{d}ce | {g}fA{g}dA {g}ef{g}e2 | ae{A}ea c{G}cBA | {g}B{G}B{g}eG {g}A2{g}cd |]
+[|: {g}eA{d}ce {G}eA{g}c{d}A | {g}fAd{g}(f f)A{g}df | {g}ea{g}aB {g}c{G}c{g}eA | {g}B{e}B{G}BA [1 {g}B{G}B{g}cd [2 {g}B{G}Be2 |
+[1 {g}eA{d}ce {G}eA{g}c{d}A | {g}fAd{g}(f f)e{ag}a2 | ea{g}ae {g}c{G}c{g}BA | {g}B{G}B{g}eG {g}A2{g}cd :|]
+[2 {g}A2>{d}c2 {g}eA{d}ce | {g}fA{g}dA {g}ef{g}e2 | ae{A}ea c{G}cBA [M: 3/4]| {g}B{G}B{g}eG {g}(A4 A2){g}cd |]
+[M: 2/4][|: {g}eAc {g}eAc {g}eA | {g}fAd {g}fAd {g}fd | {g}ea{g}aB {g}c{G}c{g}eA | {g}B{e}B{G}BA [1 {g}B{G}B{g}cd [2 {g}B{G}Be2 |
+[1 {g}eAc {g}eAc {g}eA | {g}fAd {g}fAd {ag}a2 | ea{g}ae {g}c{G}c{g}BA | {g}B{G}B{g}eG {g}A2{g}cd :|]
+[2 {g}A2>{d}c2 {g}eA{d}ce | {g}fe{g}da ef{g}e2 | ae{A}ea c{G}cBA [M: 1/4]| {g}B{G}B{g}eG [M: 2/4]  "Strathspey Time" |{g}A8 |]
+X:2
+T:Kelsey's Wee Reel
+T:Seconds
+R:Reel
+C:Iain Symington, Arr. Adam Blaine
+M:C|
+L:1/8
+K:D
+[| {AGAG}A2 {g}c{d}A {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}c{d}A {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
+{AGAG}A2 {g}c{d}A {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa ||
+ca{g}ad ae{G}ea | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca |Bc{g}de {g}fe{g}fa |
+ca{g}ad ae{G}ea | daca {g}ae{G}ea | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
+G{d}G{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | G{d}G{g}BG {g}dB{g}B{G}B | {g}GA{g}Bd {g}ed{g}eg | 
+G{d}G{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | Gg{a}gd {g}eB{g}B{G}B | {g}Bc{g}de {g}fe{g}fa ||
+ca{g}ad ae{G}ea | Aa{g}ae {g}fe{g}fa | ca{g}ad ae{G}ea | Bc{g}de {g}fe{g}fa |
+ca{g}ad ae{G}ea | daca faea | ca{g}ad ae{G}ea | Bc{g}de {g}fadc |]

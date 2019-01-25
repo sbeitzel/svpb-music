@@ -26,7 +26,8 @@ PDF = pstopdf
 JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 
 # The source files for all the music
-G3MEDLEY = 2019_g3_medley_p1.abc 2019_g3_medley_p2.abc 2019_g3_medley_p3.abc
+G3MEDLEY = 2019_g3_medley_p1.abc 2019_g3_medley_p2.abc 2019_g3_medley_p3.abc \
+   2019_g3_medley_harmonies.abc
 G3MSR = 2019_g3_msr.abc
 G4MEDLEY = 2019_g4_medley.abc
 G4MSR = 2019_g4_msr.abc
