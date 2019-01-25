@@ -21,9 +21,10 @@ K:D
 [|: {g}eA{d}ce {G}eA{g}c{d}A | {g}fAd{g}(f f)A{g}df | {g}ea{g}aB {g}c{G}c{g}eA | {g}B{e}B{G}BA [1 {g}B{G}B{g}cd [2 {g}B{G}Be2 |
 [1 {g}eA{d}ce {G}eA{g}c{d}A | {g}fAd{g}(f f)e{ag}a2 | ea{g}ae {g}c{G}c{g}BA | {g}B{G}B{g}eG {g}A2{g}cd :|]
 [2 {g}A2>{d}c2 {g}eA{d}ce | {g}fA{g}dA {g}ef{g}e2 | ae{A}ea c{G}cBA [M: 3/4]| {g}B{G}B{g}eG {g}(A4 A2){g}cd |]
-[M: 2/4][|: {g}eAc {g}eAc {g}eA | {g}fAd {g}fAd {g}fd | {g}ea{g}aB {g}c{G}c{g}eA | {g}B{e}B{G}BA [1 {g}B{G}B{g}cd [2 {g}B{G}Be2 |
-[1 {g}eAc {g}eAc {g}eA | {g}fAd {g}fAd {ag}a2 | ea{g}ae {g}c{G}c{g}BA | {g}B{G}B{g}eG {g}A2{g}cd :|]
-[2 {g}A2>{d}c2 {g}eA{d}ce | {g}fe{g}da ef{g}e2 | ae{A}ea c{G}cBA [M: 1/4]| {g}B{G}B{g}eG [M: 2/4]  "Strathspey Time" |{g}A8 |]
+[M: 2/4][| {g}c3 A3 c2 | {g}d3 A3 d2 | {g}e2d2 {g}c2A2 | (G4 G2){g}cd |
+{g}c3 A3 c2 | {g}d3 A3 d2 | {g}ca{g}ae a{g}adc | {g}d{G}d{g}cd {g}c2{g}cd |
+{g}c3 A3 c2 | {g}d3 A3 d2 | {g}e2d2 {g}c2A2 | (G4 G2){g}e2 |
+{g}A2>{d}c2 {g}eA{d}ce | {g}fe{g}da ef{g}e2 | {g}ca{g}ae a{g}adc [M: 1/4]|  {g}d{G}d{g}cd  [M: 2/4]  "Strathspey Time" |{g}c8 |]
 X:2
 T:Kelsey's Wee Reel
 T:Seconds
@@ -34,9 +35,93 @@ L:1/8
 K:D
 [| {AGAG}A2 {g}c{d}A {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}c{d}A {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
 {AGAG}A2 {g}c{d}A {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa ||
-ca{g}ad ae{G}ea | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca |Bc{g}de {g}fe{g}fa |
-ca{g}ad ae{G}ea | daca {g}ae{G}ea | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
+ca{g}ad ae{A}ea | Aa{g}ae {g}fe{g}fa | ca{g}ad ae{A}ea |Bc{g}de {g}fe{g}fa |
+ca{g}ad ae{G}ea | daca {g}ae{A}ea | ca{g}ad ae{A}ea | Bc{g}de {g}fe{g}fa |
 G{d}G{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | G{d}G{g}BG {g}dB{g}B{G}B | {g}GA{g}Bd {g}ed{g}eg | 
 G{d}G{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | Gg{a}gd {g}eB{g}B{G}B | {g}Bc{g}de {g}fe{g}fa ||
-ca{g}ad ae{G}ea | Aa{g}ae {g}fe{g}fa | ca{g}ad ae{G}ea | Bc{g}de {g}fe{g}fa |
-ca{g}ad ae{G}ea | daca faea | ca{g}ad ae{G}ea | Bc{g}de {g}fadc |]
+ca{g}ad ae{A}ea | Aa{g}ae {g}fe{g}fa | ca{g}ad ae{A}ea | Bc{g}de {g}fe{g}fa |
+ca{g}ad ae{A}ea | daca faea | ca{g}ad ae{G}ea | Bc{g}de {g}fadc |]
+X:3
+T:Requiem For The Stewart Tartan 2nds
+T:Medley 2019
+R:Death March
+C:Adam Blaine
+M:3/4
+L:1/8
+K:D
+[| {g}B4 {gcd}c{e}B | {Gdc}d4 e2 | {fege}f4 {gf}g2 | {a}e4 {g}f>e | 
+{Gdc}d4 e2 | {g}(f2 f>)e d2 | {gcd}c<{e}(B B4) | {gBG}B4 c2 |
+{g}d4 {ag}a2 | {e}f4 {g}ed | {g}d2 A2 B2 | {g}c2 B2 {G}A2 | 
+{g}(d2 d>)e {g}f2 | {ag}a4 {f}g2 | {a}g<(f f2) e2 | {g}f4 {g}de ||
+{g}d4 {g}f2 | {g}e6 | {ag}a6 | d2 c2 A2 |
+{g}d6 | c6 | {g}e6 | {A}e4 {g}d>e |
+{g}d2 c2 d2 | {g}c4 d2 | {g}c6 | "High A 4ths"{g}f4 {g}d>c |
+{g}B4 d2 | {ge}(f2 f>)e d2 | {gcd}c<{e}(B HB4) |]
+X:4
+T:Requiem For The Stewart Tartan 3rds
+T:Medley 2019
+R:Death March
+C:Adam Blaine
+M:3/4
+L:1/8
+K:D
+[| {g}B4 {gcd}c{e}B | {Gdc}d4 e2 | {fege}f4 {gf}g2 | {a}e4 {g}f>e | 
+{Gdc}d4 e2 | {g}(f2 f>)e d2 | {gcd}c<{e}(B B4) | {gBG}B4 {G}A2 |
+{g}B4 {g}c2 | {Gdc}d4 {g}ed | {ge}f4 {gf}g2 | {a}e4 {ag}a2 | 
+{e}(f2 f>)e d2 | {gef}e4 {B}c2 | {gcd}c<{e}(B B4) | {gBG}B4 {g}de ||
+{g}A6| {d}B6 | {g}c6 | {G}A4 {g}d>e |
+{g}B6 | {g}A6 | {g}B6 | {G}A4 {g}d>e |
+{g}A4 {d}B2 | {G}A6 | {g}B2 A2 {GAG}A2 [M: 4/4]| {g}A6 {g}d>c |
+[M:3/4]{g}B4 d2 | {ge}(f2 f>)e d2 | {gcd}c<{e}(B HB4) |]
+X:5
+T:Bridge to SwagTown 2nds
+R:Slow Air -> Jig Transition
+C:Adam Blaine
+M:2/4
+L:1/8
+K:D
+[|{g}B{G}B {g}fd | {g}ed cA | "  A bit faster" {g}dB {g}dB [M:9/8] |"Jig tempo" "B 4ths" {g}e6 [M:6/8]| {g}f2e2f2 | g2f2e2 |] 
+X:6
+T:Bridge to SwagTown 3nds
+R:Slow Air -> Jig Transition
+C:Adam Blaine
+M:2/4
+L:1/8
+K:D
+[|{g}B{G}B {g}fd | {g}e4 | "  A bit faster" {g}B2 G2 [M:9/8] | "  Jig tempo" {g}A6 [M:6/8] | {g}A2{d}A2{e}A2 | {g}A2B2c2 |] 
+X:7
+T:Swagger 2nds
+T:Medley 2019
+R:Jig
+C:Shane Smith, Arr. Adam Blaine
+M:6/8
+L:1/8
+K:D
+[| {g}B{d}B{e}B {g}fed | e{g}e{A}e {g}A3 | {g}B{d}B{e}B {g}Bdf | e{g}e{A}e {g}edc |
+ {g}B{d}B{e}B {g}fed | e{g}e{A}e {g}A3 | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A ||  
+[|:{g}Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}e3 f3 | {gf}g3 a3 |
+Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A :|]
+[| {g}BfB {g}fed | {g}AeA {g}edc | {g}GdG {g}dcB | {g}cA{g}d A{g}eA |
+{g}BfB {g}fed | {g}AeA {g}edc | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A ||
+[| {g}f6 | {g}e6 | {gf}g6 | {a}e2 f2 g2 |
+{a}f6 | {g}e6 | {g}f3 g3 | e2 f2 g2 ||
+{g}f6 | {g}e6 | {gf}g6 | e2 f2 g2 |
+{a}f6 | {g}e6 | {g}f3 g3 "OFF" [M:1/8]| f |]
+X:8
+T:Swagger 3rds
+T:Medley 2019
+R:Jig
+C:Shane Smith, Arr. Adam Blaine
+M:6/8
+L:1/8
+K:D
+[| {g}B{d}B{e}B {g}fed | e{g}e{A}e {g}A3 | {g}B{d}B{e}B {g}Bdf | e{g}e{A}e {g}edc |
+ {g}B{d}B{e}B {g}fed | e{g}e{A}e {g}A3 | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A ||  
+[|:{g}Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}A3 B3 | {g}c3 {GdG}c3 |
+{g}Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A :|]
+[| {g}BfB {g}fed | {g}AeA {g}edc | {g}GdG {g}dcB | {g}cA{g}d A{g}eA |
+{g}BfB {g}fed | {g}AeA {g}edc | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A ||
+{g}dfd {g}fed | {g}cec {g}edc | {g}BdB {g}dcB | {g}A2 B2 c2 |
+{g}dfd {g}fed | {g}cec {g}edc | {g}B3 {G}A2B |  {g}A2 B2 c2 ||
+{g}dfd {g}fed | {g}cec {g}edc | {g}BdB {g}dcB | {g}A2 B2 c2 |
+{g}dfd {g}fed | {g}cec {g}edc | {g}B3 {G}A3 | "OFF" [M:1/8]| {g}d |]
