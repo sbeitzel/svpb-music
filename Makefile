@@ -13,7 +13,7 @@ ABC = abcm2ps -p -O =
 # utility pstopdf ships with the operating system and is located at /usr/bin/pstopdf
 # while non-Mac systems will generally have to install something else, such as
 # GhostScript. GhostScript provides ps2pdf.
-PDF = pstopdf
+PDF = ps2pdf
 
 # This python script ships with Mac OS X and is probably found
 # at /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py
@@ -42,7 +42,10 @@ PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
 # What are the artifacts, and where do they go
-BOX_ROOT = /Users/sbeitzel/Box\ Sync/Silicon\ Valley\ Pipe\ Band/
+# You need to define the environment variable BOX_MOUNT for your system.
+# That is the root of the local Box sync directory.
+# e.g. export BOX_MOUNT=/home/ubuntu/box.com
+BOX_ROOT = $(BOX_MOUNT)/Silicon\ Valley\ Pipe\ Band/
 G3_DIR = $(BOX_ROOT)Grade\ 3/Bagpipes/
 G4_DIR = $(BOX_ROOT)Grade\ 4/Bagpipe/2019\ Sets/
 FULL_DIR = $(BOX_ROOT)Full\ Band/Books/Band\ Tunes\ 2019/
