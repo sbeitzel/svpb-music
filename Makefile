@@ -1,5 +1,8 @@
+# This makefile is now set up so that the build system in AWS can use it. If
+# you want to build the PDFs locally, then you'll want to read through all
+# the comments carefully.
 #
-# generate all the music for the band binder
+# To generate all the music for the band binder
 # `make binder`
 #
 
