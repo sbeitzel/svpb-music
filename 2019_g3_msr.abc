@@ -22,21 +22,21 @@ K:D
 [|: {g}f/>g/ | a/>g/{a}f/>e/ {ag}a-a/>f/ | {g}e/>f/{g}e/>d/ {gcd}ce | a/>g/{a}f/>e/ {ag}ac | {gcd}c{e}B {GdGe}B{g}f/>g/ |
 a/>g/{a}f/>e/ {ag}a-a/>f/ | {g}e/>f/{g}e/>d/ {gcd}ce | a/>g/{a}f/>e {ag}aA | {gcd}c{e}A {GAG}A :|]
 X:2
-T:Mamore
+%%scale 0.65
+T:Stac Polly
 R:Strathspey
-C:Evan MacRae / Arr. Alasdair Gillies
+C:Donald MacLeod / Arr. Alasdair Gillies
 M:C
 L:1/8
 K:D
-{g}f<a {g}a>f {gef}e>d {g}e<f | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {Gdc}d>e {g}f/e/d {gef}e2 {A}e>g |
-{a}f<a {g}a>f {gef}e>d {g}e<f | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>f ||
-|| {ag}a>A {gAGAG}A2 {g}f>A {gAGAG}A2 | {g}B<d {gde}d>B {g}A2 {GAG}A>f | {ag}a>A {gAGAG}A2 {g}f>A {gAGAG}A2 | {g}f<a {g}a>f {gef}e2 {A}e>f |
-{ag}a>A {gAGAG}A2 {g}f>A {gAGAG}A2 | {g}B<d {gde}d>B {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>f ||
-|| {g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>f | {g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {gdG}d>e {g}f/e/d {gef}e2 {A}e>f |
-{g}A2 {GdGe}A>d {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f<a {g}a>f {gef}e>d {g}e<f | {AGAG}A2 {g}f>e {Gdc}d2 {gdG}d>g ||
-|| {a}f/g/a d/e/f {gBd}B>A {g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}A>g | {a}f/g/a d/e/f {gef}e>d {g}e<f | {Gdc}d>e {g}f/e/d {gef}e2 {A}e>g |
-{a}f/g/a d/e/f {gBd}B>A{g}B<d | {g}A>{d}B {g}A<{d}G {g}A2 {GAG}Ag | {a}f<a {g}a>f {gef}e>d {g}e/f/a | {AGAG}A2 {g}f>e {Gdc}d2-d2 ||
+[|: f/ | {gAGAG}A2 {g}B<d {gfg}f>d {gBd}B<{e}A | {g}B<d {gBd}B<{e}A {gfg}f>d {gef}e>f | {gAGAG}A2 {g}B<d {gfg}f>d {gBd}B<{e}A | {g}B<d {g}e>f {gef}e<d {gdG}d3/2 :|]
+f/ | {ag}a>f {Gdc}d>f {ag}a>d {gfg}f>d | {g}B<d {gBd}B<{e}A {gfg}f>d {gef}e>f | {ag}a>f {Gdc}d>f {ag}a>d {gfg}f>d {gfg}f>d | {g}B<d {g}e>f {gef}e<d {gdG}d>f |
+{ag}a>f {Gdc}d>f {ag}a>d {gfg}f>d | {g}B<d {gBd}B<{e}A {gfg}f>d {gef}e>f | {gAGAG}A2 {g}B<d {gfg}f>d {gBd}B<{e}A | {g}B<d {g}e>f {gef}e<d {gdG}d3/2 |
+[|: f | {gAGAG}A2 {g}B/c/d {gfg}f>A {g}B/c/d | {gBd}B<{e}A {g}B/d/d {g}f/e/d {gef}e>f | {gAGAG}A2 {g}B/c/d {g}f/e/d {gBd}B<{e}A | {g}B/c/d {g}e>f {gef}e<d {gdG}d :|]
+f | {ag}a>f {Gdc}d>f {g}e/f/g {ag}a2 | {AGAG}A2 {gBd}B<{e}A {g}f/e/d {gef}e>f | {ag}a>f {Gdc}d>f {g}e/f/g {ag}a>A | {g}B/c/d {g}e>f {gef}e<d {gdG}d>f |
+{ag}a>f {Gdc}d>f {g}e/f/g {ag}a2 | {AGAG}A2 {gBd}B<{e}A {g}f/e/d {gef}e>f | {gAGAG}A2 {g}B/c/d {g}f/e/d {gBd}B<{e}A | {g}B/c/d {g}e>f {gef}ed {gdG}d |
 X:3
+%%scale 0.75
 T:Kildonan
 R:Reel
 C:Donald MacLeod / Arr. Alasdair Gillies
