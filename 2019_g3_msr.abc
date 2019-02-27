@@ -29,12 +29,12 @@ C:Donald MacLeod / Arr. Alasdair Gillies
 M:C
 L:1/8
 K:D
-[|: f/ | {gAGAG}A2 {g}B<d {gfg}f>d {gBd}B<{e}A | {g}B<d {gBd}B<{e}A {gfg}f>d {gef}e>f | {gAGAG}A2 {g}B<d {gfg}f>d {gBd}B<{e}A | {g}B<d {g}e>f {gef}e<d {gdG}d3/2 :|]
-f/ | {ag}a>f {Gdc}d>f {ag}a>d {gfg}f>d | {g}B<d {gBd}B<{e}A {gfg}f>d {gef}e>f | {ag}a>f {Gdc}d>f {ag}a>d {gfg}f>d {gfg}f>d | {g}B<d {g}e>f {gef}e<d {gdG}d>f |
-{ag}a>f {Gdc}d>f {ag}a>d {gfg}f>d | {g}B<d {gBd}B<{e}A {gfg}f>d {gef}e>f | {gAGAG}A2 {g}B<d {gfg}f>d {gBd}B<{e}A | {g}B<d {g}e>f {gef}e<d {gdG}d3/2 |
-[|: f | {gAGAG}A2 {g}B/c/d {gfg}f>A {g}B/c/d | {gBd}B<{e}A {g}B/d/d {g}f/e/d {gef}e>f | {gAGAG}A2 {g}B/c/d {g}f/e/d {gBd}B<{e}A | {g}B/c/d {g}e>f {gef}e<d {gdG}d :|]
-f | {ag}a>f {Gdc}d>f {g}e/f/g {ag}a2 | {AGAG}A2 {gBd}B<{e}A {g}f/e/d {gef}e>f | {ag}a>f {Gdc}d>f {g}e/f/g {ag}a>A | {g}B/c/d {g}e>f {gef}e<d {gdG}d>f |
-{ag}a>f {Gdc}d>f {g}e/f/g {ag}a2 | {AGAG}A2 {gBd}B<{e}A {g}f/e/d {gef}e>f | {gAGAG}A2 {g}B/c/d {g}f/e/d {gBd}B<{e}A | {g}B/c/d {g}e>f {gef}ed {gdG}d |
+[|: {gAGAG}A2 {g}B<d {g}f>d {gBd}B<{e}A | {g}B<d {gBd}B<{e}A {g}f>d {g}e>f | {gAGAG}A2 {g}B<d {g}f>d {gBd}B<{e}A | {g}B<d {g}e>f {gef}e<d {gdG}d>f:|]
+{ag}a>f {Gdc}d>f {ag}a>d {g}f>d | {g}B<d {gBd}B<{e}A {g}f>d {g}e>f | {ag}a>f {Gdc}d>f {ag}a>d {g}f>d | {g}B<d {g}e>f {gef}e<d {gdG}d>f |
+{ag}a>f {Gdc}d>f {ag}a>d {g}f>d | {g}B<d {gBd}B<{e}A {g}f>d {g}e>f | {gAGAG}A2 {g}B<d {g}f>d {gBd}B<{e}A | {g}B<d {g}e>f {gef}e<d {gdG}d>f |
+[|: {gAGAG}A2 {g}B/c/d {gfg}f>A {g}B/c/d | {gBd}B<{e}A {g}B/c/d {g}f/e/d {gef}e>f | {gAGAG}A2 {g}B/c/d {g}f/e/d {gBd}B<{e}A | {g}B/c/d {g}e>f {gef}e<d {gdG}d>f :|]
+{ag}a>f {Gdc}d>f {g}e/f/g {ag}a2 | {AGAG}A2 {gBd}B<{e}A {g}f/e/d {gef}e>f | {ag}a>f {Gdc}d>f {g}e/f/g {ag}a>A | {g}B/c/d {g}e>f {gef}e<d {gdG}d>f |
+{ag}a>f {Gdc}d>f {g}e/f/g {ag}a2 | {AGAG}A2 {gBd}B<{e}A {g}f/e/d {gef}e>f | {gAGAG}A2 {g}B/c/d {g}f/e/d {gBd}B<{e}A | {g}B/c/d {g}e>f {gef}e<d {gdG}d2 |]
 X:3
 %%scale 0.75
 T:Kildonan
