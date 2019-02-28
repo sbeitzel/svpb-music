@@ -3,7 +3,7 @@
 # the comments carefully.
 #
 # To generate all the music for the band binder
-# `make binder`
+# `make` (since the binder is the first target).
 #
 
 RM = rm
