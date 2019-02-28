@@ -2,3 +2,7 @@
 *.ps
 *.pdf
 
+# Other detritus
+.DS_Store
+*~
+
