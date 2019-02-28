@@ -15,9 +15,9 @@ C:Trad., arr. by Adam Blaine
 M:C
 L:1/8
 K:D
-[|: {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A :|]
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g | {cd}c<{e}A {a}g/f/e {Gdc}d2 {ag}a2 |]
+[|: {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A :|]
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g | {cd}c<{e}A g/f/e {Gdc}d2 {ag}a2 |]
 X:3
 T:Kelsey's Wee Reel
 R:Reel
