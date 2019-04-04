@@ -1,18 +1,18 @@
-#SVPB Music
+# SVPB Music
 
 This project contains all the ABC source files for the band
 sheet music. The Makefile will make the music binder and
 individual tune and set PDF files. When adding a tune, make
 sure to update the Makefile so it is included in the build.
 
-#Current Build Chain
+# Current Build Chain
 
 We have a small server which is running [TeamCity](https://www.jetbrains.com/teamcity/). Periodically, this checks for updates to the __master__ branch of this project. When it detects a change, it pulls the project and builds the binder. It then copies all the freshly built PDFs onto the band's Box folder. The TeamCity server also sends a notification to the `music` channel in the band's Slack group when a fresh build has completed.
 
 There's a webhook installed in Github so that when checkins happen to __master__ a notification gets sent to the `music` channel in the band's Slack group.
 
 
-#Process and Tools
+# Process and Tools
 
 We use the [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) workflow to keep the tunes for this year separate from the tunes for next year. Next year's set/tune edits happen on the [develop](https://github.com/sbeitzel/svpb-music/tree/develop) branch while changes to the current tunes happen on [master](https://github.com/sbeitzel/svpb-music/tree/master). To make using this flow easy, I suggest the free tool, [Sourcetree](https://www.sourcetreeapp.com/), from Atlassian.
 
