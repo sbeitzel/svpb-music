@@ -12,18 +12,16 @@ T:Requiem For The Stewart Tartan
 T:Medley 2019
 R:Death March
 C:Adam Blaine
-M:3/4
+M:4/4
 L:1/8
 K:D
 "The End of an era"
-[| {g}B4 {gcd}c{e}B | {Gdc}d4 e2 | {fege}f4 {gf}g2 | {a}e4 {g}f>e | 
-{Gdc}d4 e2 | {g}(f2 f>)e d2 | {gcd}c<{e}(B B4) | {gBG}B4 {G}A2 |
-{g}B4 c2 | {Gdc}d4 {g}ed | {ge}f4 {gf}g2 | {a}e4 {ag}a2 | 
-{e}(f2 f>)e d2 | {gef}e4 {B}c2 | {gcd}c<{e}(B B4) | {gBG}B4 {g}de ||
-"A new day dawns"{g}f4 {g}d>f | {gf}g4 {ag}a2 | {e}(f2 f>>)gf// e2 | {A}e4 {g}d>e |
-{g}f4 {gf}g2 | {a}e4 d2 | {gcd}c6 | {GdG}c4 {g}d>e |
-{g}f4 {ag}a2 | {e}(f2 f>)e d2 | {gef}e4 {AGAG}A2 |[M: 4/4] {gB}c6 {g}d>c |
-[M: 3/4]"   All together now"{g}B4 d2 | {ge}(f2 f>)e d2 | {gcd}c<{e}(B HB4) |]
+[| {g}B6 c2 |[M:3/4] {Gdc}d4 {g}ed | {ge}f4 {gf}g2 | {a}e4 {g}f>e | 
+{Gdc}d4 e2 | {g}f4 {g}e<d | {gcd}c<{e}(B B4) | {gBG}B4 {g}de ||
+"A new day dawns"{g}f4 {g}df | {gf}g4 {ag}a2 | {e}(f2 f>>)gf// e2 | {A}e4 {g}d>e |
+{g}f4 {gf}g2 | {a}e4 d2 | {gcd}c6 | {GdG}c4 {g}de |
+{g}f4 {ag}a2 | {e}f4 {g}e<d | {gef}e4 A2 |[M: 4/4] {gB}c6 d2 |
+[M: 3/4]"   All together now"{g}B4 d2 | {ge}f4 {g}e<d | {gcd}c<{e}(B HB4) |]
 X:5
 T:Bridge To SwagTown
 T:Medley 2019
@@ -49,4 +47,4 @@ K:D
 {g}BfB {g}fed | {g}AeA {g}edc |1 {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A :|]
 [2 {g}Bdf {g}edB | {g}c2 d2 e2 ||
 {g}BfB {g}fed | {g}AeA {g}edc | {g}GdG {g}dcB | {g}cA{g}d A{g}eA |
-{g}BfB {g}fed | {g}AeA {g}edc | {g}Bdf {g}edc "OFF" [M:1/8]| {g}B |]
+{g}BfB {g}fed | {g}AeA {g}edc | {g}Bdf {g}edc "OFF" |[M:1/8] {g}B |]
