@@ -1,0 +1,23 @@
+%abc-2.2
+%%landscape 1
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+X:1
+T:Dovecote Park
+R:March
+C:J. Braidwood
+L:1/8
+M:6/8
+K:D
+[|: f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>d{g}f {ag}a2 g | {afg}f{g}ef {g}Adf | a>f{g}d {gef}e2 {g}f | {g}A2 {GdGe}A {gBd}B2 {G}A |
+{g}A>d{g}f {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|: {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>e{g}d {ag}a2 f |
+{g}e>f{g}e {g}A>B{GdG}c | {g}e>gf {gef}e2 [1 {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>e{g}d {ag}a2 g | {a}f>ga {ef}e>c{d}A |
+{Gdc}d3 {gdc}d2 :|[2 f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>d{g}f {ag}a2 g | {a}fga {ef}e{g}c{d}A | {Gdc}d3 {gdc}d2 ||
+[|: {g}f | {g}A>d{g}f {gfg}f>e{g}f | {g}A>d{g}f {ag}a2 g | {fg}f>e{g}d {g}A>d{g}f | {gef}e3 {A}e2 {g}f | {g}A>d{g}f {gfg}f>e{g}f |
+a>f{g}d {gBG}B2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|][|: {gf}g | a>f{g}d {g}A>d{g}f | {gfg}f>e{g}d {gBG}B2 d |
+{g}A>d{g}f a>f{g}d | {gef}e3 {A}e2 [1 {gf}g | a>f{g}d {g}A>d{g}f | {gfg}f>e{g}d {gBG}B2 g | {a}f>ga {ef}e>c{d}A |
+{Gdc}d3 {gdc}d2 :|[2 f | {g}A>d{g}f {gfg}f>e{g}f | a>f{g}d {gBG}B2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 |]
