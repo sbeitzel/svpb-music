@@ -21,5 +21,5 @@ a2 {GdG}a {fg}f2 a | {ef}e>c{d}A {gBd}B2 {d}c | {g}A>B{GdG}c {g}e>f{g}c | {gBd}B
 [|: B | {g}c<{d}A{d}c {g}c<ec | {gBd}B3 {G}A2 B | {g}c<{d}A{d}c {g}c<ea | {fg}f3 {gef}e2 {gf}g |
 a2 {GeG}a {fg}f2 a | {ef}e>c{d}A {gBd}B2 {d}c | {g}A>B{GdG}c {g}e>f{g}c | {gBd}B3 {G}A2 :|]
 [|: {gf}g | a2 {GdG}a {ef}e2 a | {fg}f>ec {gef}e2 {gf}g | a2 {GdG}a e>{g}fa | {fg}f3 {gef}e2 [1 {gf}g |
-a2 {GdG}a {ef}e2 a | {fg}f>ec {gef}e2 {ag}a | {g}A>B{GdG}c {g}e>f{g}c {gBd}B3 {G}A2 :|
+a2 {GdG}a {ef}e2 a | {fg}f>ec {gef}e2 {ag}a | A>B{GdG}c {g}e>f{g}c {gBd}B3 {G}A2 :|
 [2 a | A>{d}ce {g}e>fg | a>gf {gef}e3 | {g}A>B{GdG}c {g}e>f{g}c | {gBd}B3 {G}A2 |]
