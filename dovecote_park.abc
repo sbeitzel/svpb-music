@@ -15,7 +15,7 @@ M:6/8
 K:D
 [|: f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>df {ag}a2 g | {a}f2 {GdG}f {g}A>df | a>fd {gef}e2 f |
 {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>df {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|]
-[|: {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>ed {ag}a2 f | {g}e2 {GdG}e {g}A>B{GdG}c | {g}egf {gef}e2 [1 {gf}g |
+[|: {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>ed {ag}a2 f | {g}e2 {GdG}e {g}A>B{GdG}c | {g}e<gf {gef}e2 [1 {gf}g |
 {a}f>ga {Gdc}d2 e | {gfg}f>ed {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|]
 [2 f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>df {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 ||
 [|: f | {g}A>df {gfg}f>ef | {g}A>df {ag}a2 g | {fg}f>ed {g}A>df | {gef}e3 {A}e2 f |
