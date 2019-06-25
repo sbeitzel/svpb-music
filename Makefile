@@ -35,7 +35,7 @@ G3MSR = 2019_g3_msr.abc
 G4MEDLEY = 2019_g4_medley.abc
 G4MSR = 2019_g4_msr.abc
 PARADE = banks_of_the_lossie.abc Moonstar.abc al_walker_hana.abc irish_set.abc \
-   dovecote_park.abc
+   dovecote_park.abc leaving_port_askaig.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc

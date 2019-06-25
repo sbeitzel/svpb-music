@@ -1,5 +1,5 @@
 %abc-2.2
-%%landscape 1
+%%landscape 0
 %%titleformat T0, R-1 C1
 %%footer "		Generated: $D"
 %%straightflags false
@@ -9,15 +9,17 @@
 X:1
 T:Dovecote Park
 R:March
-C:J. Braidwood
+C:James Braidwood
 L:1/8
 M:6/8
 K:D
-[|: f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>d{g}f {ag}a2 g | {afg}f{g}ef {g}Adf | a>f{g}d {gef}e2 {g}f | {g}A2 {GdGe}A {gBd}B2 {G}A |
-{g}A>d{g}f {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|: {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>e{g}d {ag}a2 f |
-{g}e>f{g}e {g}A>B{GdG}c | {g}e>gf {gef}e2 [1 {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>e{g}d {ag}a2 g | {a}f>ga {ef}e>c{d}A |
-{Gdc}d3 {gdc}d2 :|[2 f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>d{g}f {ag}a2 g | {a}fga {ef}e{g}c{d}A | {Gdc}d3 {gdc}d2 ||
-[|: {g}f | {g}A>d{g}f {gfg}f>e{g}f | {g}A>d{g}f {ag}a2 g | {fg}f>e{g}d {g}A>d{g}f | {gef}e3 {A}e2 {g}f | {g}A>d{g}f {gfg}f>e{g}f |
-a>f{g}d {gBG}B2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|][|: {gf}g | a>f{g}d {g}A>d{g}f | {gfg}f>e{g}d {gBG}B2 d |
-{g}A>d{g}f a>f{g}d | {gef}e3 {A}e2 [1 {gf}g | a>f{g}d {g}A>d{g}f | {gfg}f>e{g}d {gBG}B2 g | {a}f>ga {ef}e>c{d}A |
-{Gdc}d3 {gdc}d2 :|[2 f | {g}A>d{g}f {gfg}f>e{g}f | a>f{g}d {gBG}B2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 |]
+[|: f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>df {ag}a2 g | {a}f2 {GdG}f {g}A>df | a>fd {gef}e2 f |
+{g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>df {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|]
+[|: {gf}g | {a}f>ga {Gdc}d2 e | {gfg}f>ed {ag}a2 f | {g}e2 {GdG}e {g}A>B{GdG}c | {g}e<gf {gef}e2 [1 {gf}g |
+{a}f>ga {Gdc}d2 e | {gfg}f>ed {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|]
+[2 f | {g}A2 {GdGe}A {gBd}B2 {G}A | {g}A>df {ag}a2 g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 ||
+[|: f | {g}A>df {gfg}f>ef | {g}A>df {ag}a2 g | {fg}f>ed {g}A>df | {gef}e3 {A}e2 f |
+{g}A>df {gfg}f>ef | a>fd {gBd}B2 {gf}g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|]
+[|: {gf}g | a>fd {g}A>df | {gfg}f>ed {gBd}B2 {Gdc}d | {g}A>df a>fd | {gef}e3 {A}e2 [1 {gf}g |
+a>fd {g}A>df | {gfg}f>ed {gBd}B2 {gf}g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 :|]
+[2 f | {g}A>df {gfg}f>ef | a>fd {gBd}B2 {gf}g | {a}f>ga {ef}e>c{d}A | {Gdc}d3 {gdc}d2 |]
