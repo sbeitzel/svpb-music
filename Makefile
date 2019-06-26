@@ -34,8 +34,8 @@ G3MEDLEY = 2019_g3_medley_p1.abc 2019_g3_medley_p2.abc 2019_g3_medley_p3.abc \
 G3MSR = 2019_g3_msr.abc
 G4MEDLEY = 2019_g4_medley.abc
 G4MSR = 2019_g4_msr.abc
-PARADE = banks_of_the_lossie.abc Moonstar.abc al_walker_hana.abc irish_set.abc \
-   dovecote_park.abc leaving_port_askaig.abc
+PARADE = banks_of_the_lossie.abc Moonstar.abc grans.abc al_walker_hana.abc \
+   irish_set.abc   dovecote_park.abc leaving_port_askaig.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc
@@ -49,10 +49,10 @@ PDFFILES = $(PSFILES:.ps=.pdf)
 # You need to define the environment variable BOX_MOUNT for your system.
 # That is the root of the local Box sync directory.
 # e.g. export BOX_MOUNT=/home/ubuntu/box.com
-BOX_ROOT = $(BOX_MOUNT)/Silicon\ Valley\ Pipe\ Band/
-G3_DIR = $(BOX_ROOT)Grade\ 3/Bagpipes/
-G4_DIR = $(BOX_ROOT)Grade\ 4/Bagpipe/2019\ Sets/
-FULL_DIR = $(BOX_ROOT)Full\ Band/Books/Band\ Tunes\ 2019/
+BOX_ROOT = $(BOX_MOUNT)/Silicon\ Valley\ Pipe\ Band/sheet_music/
+G3_DIR = $(BOX_ROOT)g3/
+G4_DIR = $(BOX_ROOT)g4/
+FULL_DIR = $(BOX_ROOT)full_band/
 G3_FILES = $(G3MEDLEY) $(G3MSR)
 G3_PDFS = $(G3_FILES:.abc=.pdf)
 G4_FILES = $(G4MEDLEY) $(G4MSR)
@@ -65,7 +65,7 @@ INSTALL = /usr/bin/install
 INSTALL_FLAGS = -C
 
 # the binder PDF
-BINDER = 2019_binder.pdf
+BINDER = 2020_binder.pdf
 
 $(BINDER): $(PDFFILES)
 	$(JOIN)$(BINDER) $(PDFFILES)
