@@ -46,13 +46,19 @@ PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
 # What are the artifacts, and where do they go
-# You need to define the environment variable BOX_MOUNT for your system.
-# That is the root of the local Box sync directory.
-# e.g. export BOX_MOUNT=/home/ubuntu/box.com
-BOX_ROOT = $(BOX_MOUNT)/Silicon\ Valley\ Pipe\ Band/sheet_music/
-G3_DIR = $(BOX_ROOT)g3/
-G4_DIR = $(BOX_ROOT)g4/
-FULL_DIR = $(BOX_ROOT)full_band/
+# We use rclone to sync the artifacts to Box, since it is going to
+# stop supporting WebDAV some time soon. That, in turn, means that
+# we don't get to just mount box.com somewhere on the file system and
+# copy our artifacts there. Instead, we use install to put the artifacts
+# in place on the local file system and then we call rclone to sync the
+# local files with the service.
+
+# LOCAL_FOLDER is the local directory that we'll install files to.
+# BOX_FOLDER is the full rclone specifier for the Box folder. e.g.: "svpb-box:Silicon Valley Pipe Band/sheet_music"
+
+G3_DIR = $(LOCAL_FOLDER)/g3/
+G4_DIR = $(LOCAL_FOLDER)/g4/
+FULL_DIR = $(LOCAL_FOLDER)/full_band/
 G3_FILES = $(G3MEDLEY) $(G3MSR)
 G3_PDFS = $(G3_FILES:.abc=.pdf)
 G4_FILES = $(G4MEDLEY) $(G4MSR)
@@ -87,3 +93,5 @@ install : $(BINDER)
 	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
+sync : install
+	rclone sync $(LOCAL_FOLDER) $(BOX_FOLDER) --checksum --dry-run
