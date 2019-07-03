@@ -89,10 +89,9 @@ dist : clean $(BINDER)
 	-$(RM) *.ps
 
 install : $(BINDER)
-	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_DIR)
-	$(INSTALL) $(INSTALL_FLAGS) $(FULL_PDFS) $(FULL_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
 sync : install
-	rclone sync $(LOCAL_FOLDER) $(BOX_FOLDER) --checksum --dry-run
+	rclone sync "$(LOCAL_FOLDER)" "$(BOX_FOLDER)" --checksum --dry-run
