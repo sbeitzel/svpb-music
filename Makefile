@@ -34,7 +34,7 @@ G3MEDLEY = 2019_g3_medley_p1.abc 2019_g3_medley_p2.abc 2019_g3_medley_p3.abc \
 G3MSR = 2019_g3_msr.abc
 G4MEDLEY = 2019_g4_medley.abc
 G4MSR = 2019_g4_msr.abc
-PARADE = banks_of_the_lossie.abc Moonstar.abc al_walker_hana.abc irish_set.abc \
+PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc al_walker_hana.abc irish_set.abc \
    dovecote_park.abc leaving_port_askaig.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
@@ -83,7 +83,8 @@ dist : clean $(BINDER)
 	-$(RM) *.ps
 
 install : $(BINDER)
-	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(FULL_PDFS) $(FULL_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
