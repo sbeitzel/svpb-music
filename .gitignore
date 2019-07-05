@@ -9,3 +9,7 @@
 # IDE stuff
 .idea
 *.iml
+
+# python cruft
+venv
+venv3
