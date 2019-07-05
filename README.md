@@ -18,6 +18,10 @@ mystifying reasons) the way we get files up there is via [rclone](https://rclone
 
 There's a webhook installed in Github so that when checkins happen to __master__ a notification gets sent to the `music` channel in the band's Slack group.
 
+## Setting Up A New Year
+
+1. create the new branch and push it to Github
+1. log in to the build server and, in the `repos` directory, clone the new branch: `git clone --single-branch --branch <year> https://github.com/sbeitzel/svpb-music.git`
 
 # Process and Tools
 
