@@ -6,3 +6,10 @@
 .DS_Store
 *~
 
+# IDE cruft
+.idea
+*.iml
+
+# python cruft
+venv
+venv3
