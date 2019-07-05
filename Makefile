@@ -72,6 +72,7 @@ FULL_PDFS = $(FULL_FILES:.abc=.pdf)
 # What's the install tool
 INSTALL = /usr/bin/install
 INSTALL_FLAGS = -C
+INSTALL_DIR_FLAGS = -d
 
 # the binder PDF
 BINDER = $(YEAR)_binder.pdf
@@ -92,6 +93,7 @@ dist : clean $(BINDER)
 	-$(RM) *.ps
 
 install : $(BINDER)
+	$(INSTALL) $(INSTALL_DIR_FLAGS) $(FULL_DIR) $(G3_DIR) $(G4_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
