@@ -99,4 +99,4 @@ install : $(BINDER)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
 sync : install
-	rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum --dry-run
+	rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum
