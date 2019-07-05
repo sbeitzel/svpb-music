@@ -1,11 +1,7 @@
 %abc-2.2
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
-%%titleformat T0, R-1 C1
-%%footer "		Generated: $D"
-%%dateformat "%e %B %Y %H:%M"
+I:abc-include style.abh
 %%landscape 0
+
 X:1
 T:Auld Lang Syne
 C:Trad.

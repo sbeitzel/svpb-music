@@ -1,11 +1,8 @@
 %abc-2.2
-%%titleformat T0, R-1 C1
+I:abc-include style.abh
 %%footer "Page $P	SVPB G4 Medley 2019	Generated: $D"
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
-%%dateformat "%e %B %Y %H:%M"
 %%landscape 1
+
 X:1
 T:Archie McKinley
 R:March

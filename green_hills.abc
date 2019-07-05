@@ -1,11 +1,7 @@
 %abc-2.2
+I:abc-include style.abh
 %%landscape 1
-%%titleformat T0, R-1 C1
-%%footer "		Generated: $D"
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
-%%dateformat "%e %B %Y %H:%M"
+
 X:1
 T:The Green Hills of Tyrol
 R:Retreat March

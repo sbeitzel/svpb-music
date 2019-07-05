@@ -5,6 +5,9 @@
 # To generate all the music for the band binder
 # `make` (since the binder is the first target).
 #
+# YEAR is the year for which this project builds the binder
+
+YEAR=2020
 
 RM = rm
 
@@ -56,9 +59,9 @@ PDFFILES = $(PSFILES:.ps=.pdf)
 # LOCAL_FOLDER is the local directory that we'll install files to.
 # BOX_FOLDER is the full rclone specifier for the Box folder. e.g.: "svpb-box:Silicon Valley Pipe Band/sheet_music"
 
-G3_DIR = $(LOCAL_FOLDER)/g3/
-G4_DIR = $(LOCAL_FOLDER)/g4/
-FULL_DIR = $(LOCAL_FOLDER)/full_band/
+G3_DIR = $(LOCAL_FOLDER)/$(YEAR)/g3/
+G4_DIR = $(LOCAL_FOLDER)/$(YEAR)/g4/
+FULL_DIR = $(LOCAL_FOLDER)/$(YEAR)/full_band/
 G3_FILES = $(G3MEDLEY) $(G3MSR)
 G3_PDFS = $(G3_FILES:.abc=.pdf)
 G4_FILES = $(G4MEDLEY) $(G4MSR)
@@ -71,7 +74,7 @@ INSTALL = /usr/bin/install
 INSTALL_FLAGS = -C
 
 # the binder PDF
-BINDER = 2020_binder.pdf
+BINDER = $(YEAR)_binder.pdf
 
 $(BINDER): $(PDFFILES)
 	$(JOIN)$(BINDER) $(PDFFILES)
@@ -94,4 +97,4 @@ install : $(BINDER)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
 sync : install
-	rclone sync "$(LOCAL_FOLDER)" "$(BOX_FOLDER)" --checksum --dry-run
+	rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum --dry-run
