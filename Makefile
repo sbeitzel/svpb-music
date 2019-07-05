@@ -7,7 +7,7 @@
 #
 # YEAR is the year for which this project builds the binder
 
-YEAR=2020
+YEAR=2019
 
 RM = rm
 
@@ -93,10 +93,10 @@ dist : clean $(BINDER)
 	-$(RM) *.ps
 
 install : $(BINDER)
-        $(INSTALL) $(INSTALL_DIR_FLAGS) $(FULL_DIR) $(G3_DIR) $(G4_DIR)
-        $(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
-        $(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
-        $(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
+	$(INSTALL) $(INSTALL_DIR_FLAGS) $(FULL_DIR) $(G3_DIR) $(G4_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
 sync : install
-        rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum
+	rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum
