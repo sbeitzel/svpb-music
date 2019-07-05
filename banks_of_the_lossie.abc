@@ -1,11 +1,7 @@
 %abc-2.2
-%%straightflags false
-%%flatbeams true
-%%footer "		Generated: $D"
-%%dateformat "%e %B %Y %H:%M"
-%%graceslurs false
-%%titleformat T0, R-1 C1
+I:abc-include style.abh
 %%landscape 1
+
 X:1
 T:The Banks of the Lossie
 C:Scots Guards Vol. II

@@ -1,12 +1,9 @@
 %abc-2.2
-%%titleformat T0, R-1 C1
+I:abc-include style.abh
 %%footer "Page $P	SVPB G3 Medley 2019	version: $d"
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
-%%dateformat "%e %B %Y %H:%M"
 %%landscape 0
 %%newpage 4
+
 X:4
 T:Requiem For The Stewart Tartan
 T:Medley 2019
@@ -22,6 +19,7 @@ K:D
 {g}f4 {gf}g2 | {a}e4 d2 | {gcd}c6 | {GdG}c4 {g}de |
 {g}f4 {ag}a2 | {e}f4 {g}e<d | {gef}e4 A2 |[M: 4/4] {gB}c6 d2 |
 [M: 3/4]"   All together now"{g}B4 d2 | {ge}f4 {g}e<d | {gcd}c<{e}(B HB4) |]
+
 X:5
 T:Bridge To SwagTown
 T:Medley 2019
@@ -31,6 +29,7 @@ M:2/4
 L:1/8
 K:D
 [|{g}B{G}B {g}fd "  A bit faster"|  {gef}e4 |  {g}B{G}B {g}dB "Jig Tempo" [M:6/8]|  {gcd}c6 | {g}f2e2d2 | {g}c2d2e2 |] 
+
 X:6
 T:Swagger
 T:Medley 2019

@@ -1,11 +1,8 @@
 %abc-2.2
-%%titleformat T0, R-1 C1
+I:abc-include style.abh
 %%footer "Page $P	SVPB G3 Medley 2019	dated: $d"
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
-%%dateformat "%e %B %Y %H:%M"
 %%landscape 1
+
 X:1
 T:Welsh Dragons
 T:Seconds
@@ -25,6 +22,7 @@ K:D
 {g}c3 A3 c2 | {g}d3 A3 d2 | {g}ca{g}ae a{g}adc | {g}d{G}d{g}cd {g}c2{g}cd |
 {g}c3 A3 c2 | {g}d3 A3 d2 | {g}e2d2 {g}c2A2 | (G4 G2){g}e2 |
 {g}A2>{d}c2 {g}eA{d}ce | {g}fe{g}da ef{g}e2 | {g}ca{g}ae a{g}adc [M: 1/4]|  {g}d{G}d{g}cd  [M: 2/4]  "Strathspey Time" |{g}c8 |]
+
 X:2
 T:Kelsey's Wee Reel
 T:Seconds
@@ -41,6 +39,7 @@ G{d}G{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | G{d}G{g}BG {g}dB{g}B{G}B | {g
 G{d}G{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | Gg{a}gd {g}eB{g}B{G}B | {g}Bc{g}de {g}fe{g}fa ||
 ca{g}ad ae{A}ea | Aa{g}ae {g}fe{g}fa | ca{g}ad ae{A}ea | Bc{g}de {g}fe{g}fa |
 ca{g}ad ae{A}ea | daca faea | ca{g}ad ae{G}ea | Bc{g}de {g}fadc |]
+
 X:3
 T:Requiem For The Stewart Tartan 2nds
 T:Medley 2019
@@ -57,6 +56,7 @@ K:D
 {g}d6 | c6 | {g}e6 | {A}e4 {g}d>e |
 {g}d2 c2 d2 | {g}c4 d2 | {g}c6 [M:4/4]| "High A 4ths"{g}f6 {g}d>c |
 [M:3/4]{g}B4 d2 | {ge}(f2 f>)e d2 | {gcd}c<{e}(B HB4) |]
+
 X:4
 T:Requiem For The Stewart Tartan 3rds
 T:Medley 2019
@@ -73,6 +73,7 @@ K:D
 {g}B6 | {g}A6 | {g}B6 | {G}A4 {g}d>e |
 {g}A4 {d}B2 | {G}A6 | {g}B2 A2 {GAG}A2 [M: 4/4]| {g}A6 {g}d>c |
 [M:3/4]{g}B4 d2 | {ge}(f2 f>)e d2 | {gcd}c<{e}(B HB4) |]
+
 X:5
 T:Bridge to SwagTown 2nds
 R:Slow Air -> Jig Transition
@@ -81,6 +82,7 @@ M:2/4
 L:1/8
 K:D
 [|{g}B{G}B {g}fd | {g}ed cA | "  A bit faster" {g}dB {g}dB [M:9/8] |"Jig tempo" "B 4ths" {g}e6 [M:6/8]| {g}f2e2f2 | g2f2e2 |] 
+
 X:6
 T:Bridge to SwagTown 3nds
 R:Slow Air -> Jig Transition
@@ -89,6 +91,7 @@ M:2/4
 L:1/8
 K:D
 [|{g}B{G}B {g}fd | {g}e4 | "  A bit faster" {g}B2 G2 [M:9/8] | "  Jig tempo" {g}A6 [M:6/8] | {g}A2{d}A2{e}A2 | {g}A2B2c2 |] 
+
 X:7
 T:Swagger 2nds
 T:Medley 2019
@@ -107,6 +110,7 @@ Bdf {g}edc | {g}d{e}d{G}d {g}A3 | {g}Bdf {g}edc | {g}B{d}B{e}B {g}B2 A :|]
 {a}f6 | {g}e6 | {g}f3 g3 | e2 f2 g2 ||
 {g}f6 | {g}e6 | {gf}g6 | e2 f2 g2 |
 {a}f6 | {g}e6 | {g}f3 g3 "OFF" [M:1/8]| f |]
+
 X:8
 T:Swagger 3rds
 T:Medley 2019

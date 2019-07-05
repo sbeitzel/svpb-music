@@ -1,10 +1,6 @@
 %abc-2.2
-%%titleformat T0, R-1 C1
+I:abc-include style.abh
 %%footer "Page $P	SVPB G4 M/S/R 2019	version: $d"
-%%dateformat "%e %B %Y %H:%M"
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
 %%scale 0.7
 %%landscape 1
 X:1

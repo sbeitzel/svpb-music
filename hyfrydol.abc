@@ -1,10 +1,6 @@
 %abc-2.2
-%%titleformat T0, R-1 C1
-%%footer "		Generated: $D"
-%%dateformat "%e %B %Y %H:%M"
-%%straightflags false
-%%flatbeams true
-%%graceslurs false
+I:abc-include style.abh
+
 X:1
 T:Hyfrydol
 R:GIVING OUT
