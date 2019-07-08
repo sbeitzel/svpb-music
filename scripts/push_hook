@@ -1,0 +1,27 @@
+#!/usr/bin/perl
+use strict;
+use warnings FATAL => 'all';
+use CGI;
+use Data::UUID;
+
+my $ug = Data::UUID->new;
+my $uuid = $ug->create();
+my $uuidstr = $ug->to_string($uuid);
+
+open (my $fh, '>', "/var/tmp/zuleika/$uuidstr") or die "Content-type: text/plain\n\nUnable to write file\n";
+
+print "Content-type: text/plain\n\n";
+print "Push noted\n";
+print "Push UUID: $uuidstr\n";
+
+my $q = CGI->new();
+
+foreach my $p ($q->all_parameters) {
+    my $data = $q->param($p);
+    print $fh "PARAM: $p\nDATA: $data\n-----------------\n\n";
+}
+
+close($fh);
+
+exit 0;
+
