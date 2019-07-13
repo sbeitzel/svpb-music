@@ -3,6 +3,7 @@ use strict;
 use warnings FATAL => 'all';
 use CGI;
 use Data::UUID;
+use JSON;
 
 my $ug = Data::UUID->new;
 my $uuid = $ug->create();
@@ -10,18 +11,32 @@ my $uuidstr = $ug->to_string($uuid);
 
 open (my $fh, '>', "/var/tmp/zuleika/$uuidstr") or die "Content-type: text/plain\n\nUnable to write file\n";
 
-print "Content-type: text/plain\n\n";
-print "Push noted\n";
-print "Push UUID: $uuidstr\n";
-
 my $q = CGI->new();
 
-foreach my $p ($q->all_parameters) {
-    my $data = $q->param($p);
-    print $fh "PARAM: $p\nDATA: $data\n-----------------\n\n";
+my $json_text = $q->param('POSTDATA');
+my $notification = decode_json $json_text;
+my %notificationHash = %$notification;
+
+my @nodes = split /\//, $notificationHash{'ref'};
+my $branch = $nodes[-1];
+
+print $fh "Branch: $branch\n";
+
+my $commitsRef = $notificationHash{'commits'};
+my @commits = @$commitsRef;
+
+foreach my $commit (@commits) {
+    my %commitHash = %$commit;
+    my $id = $commitHash{'id'};
+    my $message = $commitHash{'message'};
+
+    print $fh "Commit: [$id] $message\n";
 }
 
 close($fh);
 
-exit 0;
+print "Content-type: text/plain\n\n";
+print "Push noted\n";
+print "Push UUID: $uuidstr\n";
 
+exit 0;

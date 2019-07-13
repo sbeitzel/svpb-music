@@ -1,0 +1,8 @@
+[Unit]
+Description=Checks for change notification trigger files. Part of the music tools pipeline.
+
+[Service]
+Type=oneshot
+ExecStart=/var/zuleika/mtbin/triggercheck
+User=www-data
+Group=www-data

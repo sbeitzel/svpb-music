@@ -1,0 +1,95 @@
+#!/usr/bin/perl
+use strict;
+use warnings FATAL => 'all';
+use LWP;
+use JSON;
+
+# look for any trigger files
+
+my $dir = $ENV{"ZULEIKA_DIR"};
+my $webhook = $ENV{"ZULEIKA_WEBHOOK"};
+my $build_root = $ENV{"ZULEIKA_REPO"};
+
+opendir(DIR, $dir) or die $!;
+
+my @triggers
+    = grep {
+        /^[^\.]/      # Does not begin with a period
+    && -f "$dir/$_"   # and is a file
+} readdir(DIR);
+
+my @locks = grep { /^\./ && -f "$dir/$_" } readdir(DIR);
+
+closedir(DIR);
+
+if (scalar(@locks) == 0 && scalar(@triggers) > 0) {
+
+    # write a lock file
+    my $lockfile = "$dir/.lock_$$";
+    open (my $lockHandle, '>', $lockfile) or die $!;
+    print $lockHandle "Processing triggers: @triggers\n";
+    close $lockHandle;
+
+    # for each trigger file, process the change:
+    foreach my $file (@triggers) {
+        open (my $fh, '<', $dir."/".$file) or die "Unable to open trigger file $file! $!";
+        # get the branch and the commit message(s)
+        my ($branch, $message);
+        while (my $line = <$fh>) {
+            if ($line =~ /^Branch: (.*)$/ ) {
+                $branch = $1;
+            } elsif ($line =~ /^Commit: \[([a-zA-Z0-9]+)\] (.*)/) {
+                # could do something with the commit SHA, I guess, which is $1
+                $message .= $2;
+            }
+        }
+        close $fh;
+
+        # change directory to the branch build directory
+        chdir "$build_root/$branch";
+	print "changed directory to $build_root/$branch\n";
+        # pull the branch from Github
+        system('git pull');
+        # make the binder and sync to Box
+        system('make sync');
+
+        # notify Slack
+        my %payloadHash;
+        $payloadHash{"text"} = "$branch binder has been rebuilt and sent to Box. Commit message: '$message'";
+        my $jsonPayload = encode_json (\%payloadHash);
+        my $ua = LWP::UserAgent->new;
+        my $req = HTTP::Request->new(POST => $webhook);
+        $req->content_type('application/json');
+        $req->content($jsonPayload);
+        my $res = $ua->request($req);
+        if ($res->is_success) {
+            # delete the trigger file
+            unlink($dir."/".$file);
+        } else {
+            print "Failed to notify Slack: ", $res->status_line, "\n";
+        }
+    }
+
+    # remove the lock file
+    unlink($lockfile);
+} elsif (scalar(@triggers) > 0 && scalar(@locks) > 0) {
+    # another instance of this script is still running. This might be an error condition.
+    print "Found lockfile as well as triggers.";
+    # notify Slack
+    my %payloadHash;
+    $payloadHash{"text"} = "Found lockfile and triggers. Is there another process running?";
+    my $jsonPayload = encode_json (\%payloadHash);
+    my $ua = LWP::UserAgent->new;
+    my $req = HTTP::Request->new(POST => $webhook);
+    $req->content_type('application/json');
+    $req->content($jsonPayload);
+    my $res = $ua->request($req);
+    if ($res->is_error) {
+        print "Failed to notify Slack: ", $res->status_line, "\n";
+    }
+
+    exit 1;
+}
+
+exit 0;
+
