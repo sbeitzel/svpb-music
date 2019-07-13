@@ -14,18 +14,18 @@ opendir(DIR, $dir) or die $!;
 
 my @triggers
     = grep {
-        /^[^\.]/      # Does not begin with a period
+        /^[^l]/       # Does not begin with 'l', which a UUID will not
     && -f "$dir/$_"   # and is a file
 } readdir(DIR);
 
-my @locks = grep { /^\./ && -f "$dir/$_" } readdir(DIR);
+my @locks = grep { /^l/ && -f "$dir/$_" } readdir(DIR);
 
 closedir(DIR);
 
 if (scalar(@locks) == 0 && scalar(@triggers) > 0) {
 
     # write a lock file
-    my $lockfile = "$dir/.lock_$$";
+    my $lockfile = "$dir/lock_$$";
     open (my $lockHandle, '>', $lockfile) or die $!;
     print $lockHandle "Processing triggers: @triggers\n";
     close $lockHandle;
