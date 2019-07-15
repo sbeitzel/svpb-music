@@ -13,6 +13,7 @@ R:March
 C:Karen McKenzie
 M:2/4
 L:1/8
+Q:"78 bpm"
 K:D
 [|: {g}A2 {gcd}c>d | {g}eA {gfg}f2 | {g}e>f {gef}eA | {Gdc}dc {gcd}cB | 
 	{g}A2 {gcd}c>d | {g}eA {gfg}f2 | {gef}eA {Gdc}dc | {gBd}B2 {G}A2 :|]
@@ -30,6 +31,7 @@ C:J. Wark (Strathclyde Police) - 1978
 M:C
 L:1/8
 Z:from the RSPBA MAP list 2009
+Q:"112 bpm"
 K:D
 [|: {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f<a f/e/c {gef}e>c {gBd}B2 | {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f/e/c {gef}e>c {gBd}B2 {G}A2 :|]
 {ag}a2 e<a f/e/c {gef}e2 | {g}c<e {A}e>f {gef}e>c {gBd}B2 | {ag}a2 e<a f/e/c {gef}e2 | {g}f>e {A}e>c {gBd}B2 {G}A2 |
@@ -41,6 +43,7 @@ M:C
 L:1/8
 C:Traditional
 Z:RSPBA MAP list. https://www.rspba.org/documents/prescribed/CaptainHorne.pdf
+Q:"112 bpm"
 K:D
 [|: {g}f>A {gAGAG}A2 {g}B<{d}G {dc}d>e | {g}f>A {gAGAG}A2 {g}B<d {gdG}d>e | {g}f>A {gAGAG}A2 {g}B<{d}G {gf}g2 | {a}f<a {ef}e>d {g}B<d {gdG}d>e :|]
 [|: {gfg}f2 {g}f/e/d {gfg}f2 {g}f<a | {fg}f2 {g}f/e/d {g}e>f {ag}a2 | {fg}f2 {g}f/e/d {g}e>f {gf}g>e | {ag}a>f {gef}e>d {g}B<d ["1" {gdG}d>e ["2" {gdG}d2 :|]
@@ -50,6 +53,7 @@ R:Reel
 M:C|
 C:Trad
 L:1/8
+Q:"78 bpm"
 K:D
 [|: {g}A>{d}A{e}A>{d}B {g}A>B{g}d>f | {g}e2 {GdG}e>f {gde}d>B{G}B>e | {g}A>{d}A{e}A>{d}B {g}A>B{g}d>f | {g}e2 {GdG}e>f {Gdc}d2 {gdG}d>e :|]
 [| {gf}g2 a>g {fg}f2 a>f | {g}e2 {GdG}e>f {gde}d>B{G}B>e | {gf}g2 a>g {fg}f2 a>f | {g}e2 {GdG}e>f {Gdc}d2 {gdG}d>e |
@@ -59,6 +63,7 @@ T:Piper of Drummond
 R:Reel
 M:C|
 Z:RSPBA MAP list. https://www.rspba.org/documents/prescribed/ThePiperOfDrummond.pdf
+Q:"78 bpm"
 K:D
 [|: {Gdc}d2 {g}f>e {Gdc}d2 {g}A>B | {Gdc}d2 {g}f>e {g}f>B{G}B>c | {Gdc}d2 {g}f>e {Gdc}d2 {g}A>B | {Gdc}d2 {g}d>B {g}A>{d}A{e}A>B :|]
 [| {Gdc}d2 {g}f>B {gBd}B2 {g}f>B | {Gdc}d2 {g}f>e {g}f>B{G}B>c | {Gdc}d2 {g}f>B {gBd}B2 {g}f>B | {Gdc}d2 {g}d>B {g}A>{d}A{e}A>B |
