@@ -48,6 +48,13 @@ ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(CHRISTMAS) $(WU
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
+WUSPBA_SECTION = wuspba.pdf
+PARADE_SECTION = parade.pdf
+CHRISTMAS_SECTION = christmas.pdf
+G4_SECTION = g4.pdf
+G3_SECTION = g3.pdf
+
+
 # What are the artifacts, and where do they go
 # We use rclone to sync the artifacts to Box, since it is going to
 # stop supporting WebDAV some time soon. That, in turn, means that
@@ -62,12 +69,23 @@ PDFFILES = $(PSFILES:.ps=.pdf)
 G3_DIR = $(LOCAL_FOLDER)/$(YEAR)/g3/
 G4_DIR = $(LOCAL_FOLDER)/$(YEAR)/g4/
 FULL_DIR = $(LOCAL_FOLDER)/$(YEAR)/full_band/
+
 G3_FILES = $(G3MEDLEY) $(G3MSR)
-G3_PDFS = $(G3_FILES:.abc=.pdf)
+G3_PS = $(G3_FILES:.abc=.ps)
+G3_PDFS = $(G3_PS:.ps=.pdf)
+
 G4_FILES = $(G4MEDLEY) $(G4MSR)
-G4_PDFS = $(G4_FILES:.abc=.pdf)
-FULL_FILES = $(PARADE) $(WUSPBA) $(CHRISTMAS)
-FULL_PDFS = $(FULL_FILES:.abc=.pdf)
+G4_PS = $(G4_FILES:.abc=.ps)
+G4_PDFS = $(G4_PS:.ps=.pdf)
+
+CHRISTMAS_PS = $(CHRISTMAS:.abc=.ps)
+CHRISTMAS_PDFS = $(CHRISTMAS_PS:.ps=.pdf)
+
+PARADE_PS = $(PARADE:.abc=.ps)
+PARADE_PDFS = $(PARADE_PS:.ps=.pdf)
+
+WUSPBA_PS = $(WUSPBA:.abc=.ps)
+WUSPBA_PDFS = $(WUSPBA_PS:.ps=.pdf)
 
 # What's the install tool
 INSTALL = /usr/bin/install
@@ -77,9 +95,29 @@ INSTALL_DIR_FLAGS = -d
 # the binder PDF
 BINDER = $(YEAR)_binder.pdf
 
-$(BINDER): $(PDFFILES)
-	$(JOIN)$(BINDER) $(PDFFILES)
+$(BINDER): $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION) $(CHRISTMAS_SECTION)
+	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION) $(CHRISTMAS_SECTION)
 	
+$(G3_SECTION): $(G3_PDFS)
+	perl scripts/section_titles.pl g3_section.pdf "Grade 3 Tunes"
+	$(JOIN)$(G3_SECTION) g3_section.pdf $(G3_PDFS)
+
+$(G4_SECTION): $(G4_PDFS)
+	perl scripts/section_titles.pl g4_section.pdf "Grade 4 Tunes"
+	$(JOIN)$(G4_SECTION) g4_section.pdf $(G4_PDFS)
+
+$(PARADE_SECTION): $(PARADE_PDFS)
+	perl scripts/section_titles.pl parade_section.pdf "Parade Tunes"
+	$(JOIN)$(PARADE_SECTION) parade_section.pdf $(PARADE_PDFS)
+
+$(WUSPBA_SECTION): $(WUSPBA_PDFS)
+	perl scripts/section_titles.pl wuspba_section.pdf "Massed Bands / WUSPBA"
+	$(JOIN)$(WUSPBA_SECTION) wuspba_section.pdf $(WUSPBA_PDFS)
+
+$(CHRISTMAS_SECTION): $(CHRISTMAS_PDFS)
+	perl scripts/section_titles.pl christmas_section.pdf "Christmas Concert Tunes"
+	$(JOIN)$(CHRISTMAS_SECTION) christmas_section.pdf $(CHRISTMAS_PDFS)
+
 $(PSFILES): %.ps: %.abc
 	-$(ABC) $<
 
