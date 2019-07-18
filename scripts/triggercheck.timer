@@ -2,4 +2,8 @@
 Description=Run triggercheck every five minutes
 
 [Timer]
+OnBootSec=5min
 OnCalendar=*:0/5
+
+[Install]
+WantedBy=timers.target
