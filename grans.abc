@@ -9,8 +9,8 @@ C:Ali Hutton
 L:1/8
 M:3/4
 K:D
-{Gdc}d>c [|: {gBd}B2 {G}A>G {g}A<d | {G}A3 {d}A {Gdc}d>c | {gBd}B<{G}A {GAG}A>G {g}f<g | {ef}e2- e{A}e {g}f>d |
-{gBd}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {G}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
+{Gdc}d>c [|: {gBd}B2 {G}A>G {g}A<d | {G}A3 {d}A {Gdc}d>c | {g}B<{G}A {GAG}A>G {g}f<g | {ef}e2- e{A}e {g}f>d |
+{g}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {g}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
 [|: {ag}a2 {Gdc}d>G {a}g<f | {gA}B4 {gef}e>f | {gf}g2 {a}f>d {gde}d<c | {G}A4 {gef}e{g}f/g/ |
 {ag}a2 {Gdc}d>G {a}g<f | {gA}B2- B{G}A {g}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}f>g :]2 {Gdc}d4 ||
 
@@ -21,8 +21,8 @@ C:Ali Hutton
 L:1/8
 M:3/4
 K:D
-{Gdc}d>c [|: {gBd}B2 {G}A>G {g}A<d | {G}A3 {d}A {Gdc}d>c | {gBd}B<{G}A {GAG}A>G {g}f<g | {ef}e2- e{A}e {g}f>d |
-{gBd}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {G}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
+{Gdc}d>c [|: {gBd}B2 {G}A>G {g}A<d | {G}A3 {d}A {Gdc}d>c | {g}B<{G}A {GAG}A>G {g}f<g | {ef}e2- e{A}e {g}f>d |
+{g}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {g}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
 {ag}a2 {Gdc}d>G {a}g<f | {gA}B4 {gef}e>f | {gf}g2 {a}f>d {gde}d<c | {G}A4 {g}c{g}d/e/ |
 {g}d2 {g}f>d {g}A<d | {g}d2- dc {g}c/d/f | {ag}a2 {cd}c>B {g}d<e | {g}f4 {g}d>{c}d ||
 {g}d2 {g}f>d {g}A<d | {g}d4 {g}A>{G}A | {g}B2 {g}d>f {g}f<e | {gB}c4 {g}c{g}d/e/ | 
@@ -36,10 +36,10 @@ L:1/8
 M:3/4
 K:D
 {Gdc}d>c [|: {gBd}B2 {G}A>G {g}A<d | {G}A3 {d}A {Gdc}d>c | {gBd}B<{G}A {GAG}A>G {g}f<g | {ef}e2- e{A}e {g}f>d |
-{gBd}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {G}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
+{gBd}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {g}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
 {ag}a2 {Gdc}d>G {a}g<f | {gA}B4 {gef}e>f | {gf}g2 {a}f>d {gde}d<c | {G}A4 {g}c{g}d/e/ |
 {g}d2 {g}f>d {g}A<d | {g}d2- dc {g}c/d/f | {ag}a2 {cd}c>B {g}d<e | {g}f4 {g}d>{c}d ||
 {g}d2 {ag}a>f {g}d<A | {gf}g4 c>d | {g}e2 A2 {g}B<A | {g}e4 {g}AB/A/ |
-{g}A2 {ag}a>f {g}d<A | {gf}g2- g{a}f {g}f/g/a | {ag}a2 {cd}c>B {g}d<e- e2 | a4 ||
+{g}A2 {ag}a>f {g}d<A | {gf}g2- g{a}f {g}f/g/a | {ag}a2 {cd}c>B {g}d<e | a4 ||
 
 
