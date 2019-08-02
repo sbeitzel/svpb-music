@@ -1,0 +1,16 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+
+X:1
+T:Jingle Bells
+C:James Pierpont
+O:USA
+R:March
+M:4/4
+N:http://www.celticscores.com/sheet-music/449_Jingle_Bells
+K:D
+{g}f{e}f {gfg}f2 {g}f{e}f {gfg}f2 | {g}fa d>e {gfg}f4 | {a}g{f}g {a}g>a gf {gfg}f2 | {g}fe {A}e>f {g}e2 {ag}a2 |
+{g}f{e}f {gfg}f2 {g}f{e}f {gfg}f2 | {g}fa d>e {gfg}f4 | {a}g{f}g {a}g>a gf {gfg}f2 | a{g}a {f}ge {Gdc}d2 {gdG}d2 |
+{gAd}A{g}f ef A4 | {gAd}A{g}f ed B4 | {gBd}Bg fe c4 | a{g}a {f}ge f4 |
+{gAd}A{g}f ed A4 | {gAd}A{g}f ed B4 | {gBd}Bg fe a{g}a {g}a2 | {g}a{f}g fe {Gdc}d2 {gdG}d2 |

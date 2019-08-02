@@ -42,8 +42,8 @@ PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc grans.abc al_
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc
-CHRISTMAS = highland_cathedral.abc auld_lang_syne.abc scotland_the_brave.abc amazing_grace.abc \
-   grans.abc hector_hero.abc
+CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
+    highland_cathedral.abc hector_hero.abc grans.abc
 
 ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
