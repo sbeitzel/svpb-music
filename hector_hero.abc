@@ -1,0 +1,15 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:Hector the Hero
+R:March
+L:1/8
+M:6/8
+K:D
+[|: {g}A/>B/ | {gcd}c>B{G}A {g}f>ec | {gef}e3 {G}e2 {g}A/>B/ | {gcd}c>B{G}A {g}f>ec | {g}B3 {GdGe}B2 {g}A/>B/ |
+{gcd}c>B{G}A {g}f>ec | {gef}e3 {gAGAG}A {ag}a>f | {g}e<A{d}c {gBd}B2 {G}A | {g}A3 {GAG}A2 :|]
+{g}c/<e/ | {g}f>g{a}f {ag}a>g{a}f | {gef}e3 {A}e2 {g}c/<e/ | {gfg}fa>f {g}e<A{d}c | {g}B3 {GdGe}B {g}c/<e/ |
+{g}f>g{a}f {ag}a>g{a}f | {gef}e {gAGAG}A3 {ag}af | {g}e<A{d}c {gBd}B2 {G}A | {g}A3 {GAG}A2 {g}c/<e/ |
+{g}f>g{a}f {ag}a>g{a}f | {gef}e3 {G}e2 {g}c/<e/ | {gfg}fa>f {g}e<A{d}c | {g}B3 {GdGe}B2 {g}A/>B/ |
+{gcd}c>B{G}A {g}f>ec | {gef}e3 {gAGAG}A {ag}a>f | {g}e<A{d}c {gBd}B2 {G}A | {g}A3 {GAG}A2 |

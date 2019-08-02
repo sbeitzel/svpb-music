@@ -42,11 +42,16 @@ PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc grans.abc al_
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc
-CHRISTMAS = highland_cathedral.abc hyfrydol.abc auld_lang_syne.abc
+CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
+    highland_cathedral.abc hector_hero.abc grans.abc
 
-ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(CHRISTMAS) $(WUSPBA)
+ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
+
+CONCERT_ABC = $(CHRISTMAS)
+CONCERT_PS = $(CONCERT_ABC:.abc=.ps)
+CONDERT_PDF = $(CONCERT_PS:.ps=.pdf)
 
 WUSPBA_SECTION = wuspba.pdf
 PARADE_SECTION = parade.pdf
@@ -95,9 +100,12 @@ INSTALL_DIR_FLAGS = -d
 # the binder PDF
 BINDER = $(YEAR)_binder.pdf
 
-$(BINDER): $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION) $(CHRISTMAS_SECTION)
-	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION) $(CHRISTMAS_SECTION)
+$(BINDER): $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
 	
+install_concert: $(CHRISTMAS_SECTION)
+	$(INSTALL) $(INSTALL_FLAGS) $(CHRISTMAS_SECTION) $(FULL_DIR)
+
 $(G3_SECTION): $(G3_PDFS)
 	perl scripts/section_titles.pl g3_section.pdf "Grade 3 Tunes"
 	$(JOIN)$(G3_SECTION) g3_section.pdf $(G3_PDFS)
@@ -124,6 +132,12 @@ $(PSFILES): %.ps: %.abc
 $(PDFFILES): %.pdf: %.ps
 	$(PDF) $<
 
+$(CONCERT_PS): %.ps: %.abc
+	-$(ABC) $<
+
+$(CONDERT_PDF): %.pdf: %.ps
+	$(PDF) $<
+
 clean:
 	-$(RM) *.ps *.pdf
 
@@ -136,5 +150,5 @@ install : $(BINDER)
 	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
 
-sync : install
+sync : install install_concert
 	rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum
