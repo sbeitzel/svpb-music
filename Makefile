@@ -126,7 +126,7 @@ $(CHRISTMAS_SECTION): $(CHRISTMAS_PDFS)
 	perl scripts/section_titles.pl christmas_section.pdf "Christmas Concert Tunes"
 	$(JOIN)$(CHRISTMAS_SECTION) christmas_section.pdf $(CHRISTMAS_PDFS)
 
-$(PSFILES): %.ps: %.abc
+$(PSFILES): %.ps: %.abc style.abh
 	-$(ABC) $<
 
 $(PDFFILES): %.pdf: %.ps
