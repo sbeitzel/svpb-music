@@ -1,0 +1,57 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G4 Medley 2020	Generated: $D"
+%%landscape 1
+X:1
+T:Dream Valley of Glendaruel
+R:March
+C:Traditional
+M:3/4
+L:1/8
+K:D
+[|: {g}A>B {Gdc}d2 {e}A2 | {g}f>g {ag}a2 {Gdc}d2 | {g}e3 B | {g}f>d {gfg}f2 {g}e2 |
+{g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 :|]
+[|: {g}f>g {ag}a2 {Gdc}d2 | {gf}gf {gfg}f2 | {g}f>g {ag}a2 {Gdc}d>c | {gBd}Be {gcd}c2 {e}A2 |
+{g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 :|]
+
+X:2
+T:Out of the Air
+R:Jig
+Z:Transcribed 27 November, 2017 by Stephen Beitzel
+C:Murray Blair
+M:6/8
+L:1/8
+K:D
+{g}A2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e |
+{gAGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e ||
+[ {ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+ {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]
+
+X:3
+T:Requiem For The Stewart Tartan
+R:Death March
+C:Adam Blaine
+M:4/4
+L:1/8
+K:D
+[| {g}B6 c2 |[M:3/4] {Gdc}d4 {g}ed | {ge}f4 {gf}g2 | {a}e4 {g}f>e | 
+{Gdc}d4 e2 | {g}f4 {g}e<d | {gcd}c<{e}(B B4) | {gBG}B4 {g}de ||
+"A new day dawns"{g}f4 {g}df | {gf}g4 {ag}a2 | {e}(f2 f>>)gf// e2 | {A}e4 {g}d>e |
+{g}f4 {gf}g2 | {a}e4 d2 | {gcd}c6 | {GdG}c4 {g}de |
+{g}f4 {ag}a2 | {e}f4 {g}e<d | {gef}e4 A2 |[M: 4/4] {gB}c6 d2 |
+[M: 3/4]"   All together now"{g}B4 d2 | {ge}f4 {g}e<d | {gcd}c<{e}(B HB4) |]
+
+X:4
+T:Molly Connell
+R:Strathspey
+L:1/8
+C:J. Wark (Strathclyde Police) - 1978
+M:C
+L:1/8
+Z:from the RSPBA MAP list 2009
+K:D
+[|: {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f<a f/e/c {gef}e>c {gBd}B2 | {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f/e/c {gef}e>c {gBd}B2 {G}A2 :|]
+{ag}a2 e<a f/e/c {gef}e2 | {g}c<e {A}e>f {gef}e>c {gBd}B2 | {ag}a2 e<a f/e/c {gef}e2 | {g}f>e {A}e>c {gBd}B2 {G}A2 |
+{ag}a2 e<a f/e/c {gef}e2 | {g}c<e {A}e>f {gef}e>c {gBd}B2 | {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f/e/c {gef}e>c {gBd}B2 {G}A2 |]
