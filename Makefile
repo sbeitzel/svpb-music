@@ -32,11 +32,10 @@ PDF = ps2pdf
 JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 
 # The source files for all the music
-G3MEDLEY = 2019_g3_medley_p1.abc 2019_g3_medley_p2.abc 2019_g3_medley_p3.abc \
-   2019_g3_medley_harmonies.abc
-G3MSR = 2019_g3_msr.abc
-G4MEDLEY = 2019_g4_medley.abc
-G4MSR = 2019_g4_msr.abc
+G3MEDLEY = 2020_g3_medley_p1.abc
+G3MSR = 2020_g3_msr.abc
+G4MEDLEY = 2020_g4_medley.abc
+G4MSR = 2020_g4_msr_p1.abc 2020_g4_msr_p2.abc
 PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc grans.abc al_walker_hana.abc irish_set.abc \
    dovecote_park.abc leaving_port_askaig.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
@@ -51,7 +50,7 @@ PDFFILES = $(PSFILES:.ps=.pdf)
 
 CONCERT_ABC = $(CHRISTMAS)
 CONCERT_PS = $(CONCERT_ABC:.abc=.ps)
-CONDERT_PDF = $(CONCERT_PS:.ps=.pdf)
+CONCERT_PDF = $(CONCERT_PS:.ps=.pdf)
 
 WUSPBA_SECTION = wuspba.pdf
 PARADE_SECTION = parade.pdf
@@ -135,7 +134,7 @@ $(PDFFILES): %.pdf: %.ps
 $(CONCERT_PS): %.ps: %.abc
 	-$(ABC) $<
 
-$(CONDERT_PDF): %.pdf: %.ps
+$(CONCERT_PDF): %.pdf: %.ps
 	$(PDF) $<
 
 clean:
@@ -147,8 +146,8 @@ dist : clean $(BINDER)
 install : $(BINDER)
 	$(INSTALL) $(INSTALL_DIR_FLAGS) $(FULL_DIR) $(G3_DIR) $(G4_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
-	$(INSTALL) $(INSTALL_FLAGS) $(G3_PDFS) $(G3_DIR)
-	$(INSTALL) $(INSTALL_FLAGS) $(G4_PDFS) $(G4_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(G3_SECTION) $(G3_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(G4_SECTION) $(G4_DIR)
 
 sync : install install_concert
 	rclone sync "$(LOCAL_FOLDER)/$(YEAR)" "$(BOX_FOLDER)/$(YEAR)" --checksum

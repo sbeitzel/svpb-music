@@ -1,0 +1,35 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G3 M/S/R 2020	Generated: $D"
+%%landscape 1
+X:1
+T:The Conundrum
+R:March
+L:1/8
+C:Peter R. MacLeod
+M:2/4
+K:D
+
+X:2
+T:Arniston Castle
+C:Traditional
+R:Strathspey
+M:C
+L:1/8
+K:D
+
+X:3
+T:Bessie McIntyre
+M:C
+L:1/8
+C:Wm. Maclean
+R:Reel
+K:D
+a | A<{d}A {gef}e>c {g}e>f{gef}e>c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A<{d}A{gef}e>c {g}e>f{gef}e>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a |
+{g}A<{d}A{gef}e>c {g}e>f{gef}e>c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A<{d}A{gef}e>g {a}f2 {GdG}e>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e>f ||
+a2 {GdG}a>e {g}f>e{g}c<e | a2 {GdG}a>e {gfg}f2 {g}e>f | a2 {GdG}a>e {g}f<ae>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e>f |
+a2 {GdG}a>e {g}f>e{g}c<e | a2 {GdG}a>e {gfg}f2 {g}e>f | a>f{g}e>f {gfg}e>c{g}{g}B<{d}A | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a ||
+A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a |
+A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A<{d}A{g}e>g {a}f2 {GdG}e>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e>f ||
+{ag}a2 c<a e<ac<e | {ag}a2 c<a {fg}f>e{g}f>g | {ag}a2 c<a e<ac<a | B<{d}B{g}c<e {gfg}f2 {g}e>f |
+{ag}a2 c<a e<ac<e | {ag}a2 c<a {fg}f>e{g}f>g | a>f{g}e>f {geg}e>c{g}B{d}<A | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a |]

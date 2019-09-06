@@ -1,0 +1,38 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G4 M/S/R 2020	Generated: $D"
+%%newpage 2
+%%landscape 1
+X:2
+T:Captain Colin Campbell
+R:Strathspey
+C:Donald MacLeod
+M:C
+L:1/8
+K:D
+[|: {gBG}B2 {Gdc}d>c {g}B2 {GdGe}B>{d}c | {g}A2 {GdGe}A>{d}c {gef}e>A {g}f/e/c | {gBG}B2 {Gdc}d>c {g}B2 {GdGe}B>{d}c | {g}A>{d}c {gef}e>c {ag}a>f {g}f/e/c :|]
+[|: {gfg}f2 {g}f<a g/f/e {ag}a2 | A2 {GdGe}A>{d}c {gef}e>A {g}f/e/c | {gfg}f2 {g}f<a g/f/e {ag}a2 | A>{d}c {gef}e>c {ag}a>f {g}f/e/c :|]
+X:3
+T:The Campbeltown Kiltie Ball
+R:Strathspey
+C:Pipe-Major John McLellan, Dunoon
+M:C
+L:1/8
+K:D
+[| {g}A>B {G}A>B {g}c<e {A}e2 | {g}f>g {fg}f>e {g}f<a {g}a2 | A>B {G}A>B {g}c<e {A}e>c | {g}e>f {gef}e>c {g}B2 {GdGe}B>{d}c | 
+{g}A>B {G}A>B {g}c<e {A}e2 | {g}f>g {fg}f>e {g}f<a {g}a>e | {ag}a>g {fg}f>e {g}f>g {ag}a>f | {gef}e>c {g}B<{d}c {e}A2 {GAG}A>e |]
+{ag}a2 {g}a>e {g}f2 {g}f<a | e>f {gef}e>B {g}c<e {A}e>f | {ag}a2 {g}a>f {gf}g>a {f}g>e | {g}f>g {ag}a>f {gef}e>d {gcd}c>B |
+{g}A>B {G}A>B {g}c<e {A}e2 | {gde}d>c {Gdc}d>e {g}f<a {g}a>e | {ag}a>g {fg}f>e {g}f>g {ag}a>f | {gef}e>c {g}B<{d}c {e}A4 |]
+X:4
+T:MacKay from Skye
+C:Roderick Campbell
+R:Reel
+M:C|
+L:1/8
+K:D
+[|: {gcd}c2 {g}e>c {g}A>{d}A{e}A>a | {cd}c2 {g}e>c {g}e>fa>e | {gcd}c2 {g}e>c {g}A{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B :|]
+[|: {gAd}A2 a>g {ag}a2 e>f | {ag}a2 e>c {gAd}A2 {g}e>c | {gAd}A2 a>g {ag}a2 e>f | {gf}g2 {a}d>B {gGd}G2 {g}d>B :|]
+|| {gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {g}A>{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B |
+{gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {gAd}A2 {g}c<{d}A | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||
+|| {ag}a2 {ef}e>c {g}e>fa>e | {g}c>{d}A{e}A>{d}c a>f{gef}e>c | {ag}a2 {ef}e>c {g}e>f{a}g>d | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B |
+{ag}a2 {ef}e>c {g}e>fa>e | {g}c>{d}A{e}A>{d}c a>f{gef}e>c | a>e{A}e>a g>e{g}f>d | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||

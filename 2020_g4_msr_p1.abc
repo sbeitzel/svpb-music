@@ -1,0 +1,21 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G4 M/S/R 2020	Generated: $D"
+%%landscape 0
+X:1
+T:Duncan McInnes
+R:March
+C:PM P.R. Macleod
+M:2/4
+L:1/8
+K:D
+[|: e | {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}c{e}A | {gcd}ce {g}A{d}c | {gef}e>d {gBd}B{e}G |
+| {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+[|: B | {G}A>a {g}ae | {gf}g>a {f}ge | {gcd}c{e}A {gcd}c{gf}g | {ef}e>d {gBd}B{e}G |
+|1 {g}A>a {g}ae | {gf}g>a {f}ge | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+|2 {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A |]
+[|: {g}e/2>d/2 |{gde}d<c {g}A{d}c | {g}e>f {gcd}c{e}A | {gef}e2 {g}A{Gdc}d | {gcd}c2 {gBd}B{e}G |
+| {gde}d<c {g}A{d}c | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+[|: {g}c/2>d/2 | {gef}ec {ag}a>g | {fg}f>e {gcd}c{e}A | {gef}e2 {g}A{Gdc}d | {gcd}c2 {gBd}B{e}G |
+|1 {gef}ec {ag}a>g | {fg}f>e {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+|2 {gde}d<c {g}A{d}c | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A |]
