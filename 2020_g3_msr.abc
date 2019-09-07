@@ -1,16 +1,24 @@
 %abc-2.2
 I:abc-include style.abh
 %%footer "Page $P	SVPB G3 M/S/R 2020	Generated: $D"
-%%scale 0.7
+%%scale 0.65
 %%landscape 1
 X:1
 T:The Conundrum
 R:March
-L:1/8
+L:1/16
 C:Peter R. MacLeod
 M:2/4
 K:D
-
+[|: {g}A>B | {gcd}c2{e}A>{d}c {g}e>f{gcd}c2 | {g}A>{d}c{g}e<a {fg}f2{g}e>f | {ag}a2e>f {g}e>f{gcd}c2 | {g}A>{d}c{gef}e>c ["2nd time 2nd"{gBd}B2{g}A>B |
+{gcd}c2{e}A>{d}c {g}e>f{gcd}c2 | {g}A>{d}c{g}e<a {fg}f2{g}e>f | {ag}a2e>f {g}e>f{gcd}c2 | {gBd}B2{e}A2 {GAG}A2 :|]
+[|: {g}f>g | {ag}a2e>f a>e{ag}a2 | e>fa>e {gfg}f2{g}e>f | {ag}a2e>f {g}e>f{gcd}c2 | {g}A>{d}c{gef}e>c ["1st"{gBd}B2f>g |
+{ag}a2e>f a>e{ag}a2 | e>fa>e {gfg}f2{g}e>f | {ag}a2e>f {g}e>f{gcd}c2 | {gBd}B2{e}A2 {GAG}A2 :|]
+[|: {gef}e2 | {g}A>B{gcd}c2 {g}A>B{g}c<{d}A | {g}c<e{g}A>B {gcd}c2e2 | {g}f>g{ag}a2 e>f{gcd}c2 | {g}A>{d}c{gef}e>c {gBd}B2{gef}e2 |
+{g}A>B{gcd}c2 {g}A>B{g}c<{d}A | {g}c<e{g}A>B {gcd}c2e2 | {g}f>g{ag}a2 {g}e>f{gcd}c2 | {gBd}B2{e}A2 {GAG}A2 :|]
+[|: {ag}a2 | {fg}f>ea>e {gfg}f2{g}e<a | {fg}f2{g}e<a {fg}f>ea>e | {g}f>g{ag}a2 e>f{gcd}c2 | {g}A>{d}c{gef}e>c ["1st" {gBd}B2{ag}a2 |
+{fg}f>ea>e {gfg}f2{g}e<a | {fg}f2{g}e<a {fg}f>ea>e | {g}f>g{ag}a2 e>f{gcd}c2 | {gBd}B2{e}A2 {GAG}A2 :|]
+["2" {gBd}B2{g}A>B | {gcd}c2{gde}d>c {gef}e>A{gcd}c2 | {gde}d>c{gef}e>A {gfg}f2{g}e>f | {ag}a2e>f {g}e<a{cd}c2 | {gBd}B2{e}A2 {GAG}A2 |]
 X:2
 T:Arniston Castle
 C:Traditional
@@ -18,7 +26,7 @@ R:Strathspey
 M:C
 L:1/8
 K:D
-[| {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B<{d}G {g}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}a<a |
+[| {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B<{d}G {g}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}A<a |
 {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B<{d}G {g}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}A>{d}B ||
 {gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B>{g}A {d}G>{d}B | {gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}A>{d}B |
 {gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B>{g}A {d}G>{d}B | {g}A>{d}c {g}B>d {g}c<e {Gdc}d>f | {gef}e>f {gf}g>e {ag}a>A {GAG}A<a ||
