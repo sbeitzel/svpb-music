@@ -17,6 +17,14 @@ R:Strathspey
 M:C
 L:1/8
 K:D
+[| {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B<{d}G {g}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}a<a |
+{gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B<{d}G {g}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}A>{d}B ||
+{gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B>{g}A {d}G>{d}B | {gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d>f {g}e/f/g {ag}a>A {GAG}A>{d}B |
+{gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B>{g}A {d}G>{d}B | {g}A>{d}c {g}B>d {g}c<e {Gdc}d>f | {gef}e>f {gf}g>e {ag}a>A {GAG}A<a ||
+{ef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {g}A>{d}c {ag}a>c {Gdc}d>{g}B {G}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {gef}e>d {gcd}c<{e}A {GAG}A<a |
+{ef}e>A {gef}e>c {g}A>{d}c {gef}e>d | {g}c/{d}A{d}c/ {ag}a>c {Gdc}d>{g}B {G}B/c/d | {gef}e>A {gef}e>c {GdG} e>A {gef}e>c | {Gdc}d>f {gef}e>d {gcd}c<{e}A {GAG}A>f ||
+{g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a c<{GdG}e {gfg}f>{g}B{G}B>f | {g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a {ef}e>d {gcd}c<{e}A {GAG}A>f |
+{g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a c<{GdG}e {gfg}f>{g}B{G}B>e | {ag}a>e {gfg}f>d {g}c<{GdG}e {ag}a>e | {gfg}f>d {g}B/c/d {gcd}c<{e}A {GAG}A2|]
 
 X:3
 T:Bessie McIntyre
