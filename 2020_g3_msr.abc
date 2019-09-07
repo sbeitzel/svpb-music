@@ -1,6 +1,7 @@
 %abc-2.2
 I:abc-include style.abh
 %%footer "Page $P	SVPB G3 M/S/R 2020	Generated: $D"
+%%scale 0.7
 %%landscape 1
 X:1
 T:The Conundrum
