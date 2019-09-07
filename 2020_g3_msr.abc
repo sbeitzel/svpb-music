@@ -23,8 +23,8 @@ K:D
 {gAGAG}A<a {g}a>f {g}e>f {gef}e>c | {Gdc}d<a {cd}c<a {Bd}B>{g}A {d}G>{d}B | {g}A>{d}c {g}B>d {g}c<e {Gdc}d>f | {gef}e>f {gf}g>e {ag}a>A {GAG}A<a ||
 {ef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {g}A>{d}c {ag}a>c {Gdc}d>{g}B {G}B/c/d | {gef}e>A {gef}e>c {g}A>{d}c {gef}e>c | {Gdc}d>f {gef}e>d {gcd}c<{e}A {GAG}A<a |
 {ef}e>A {gef}e>c {g}A>{d}c {gef}e>d | {g}c/{d}A{d}c/ {ag}a>c {Gdc}d>{g}B {G}B/c/d | {gef}e>A {gef}e>c {GdG} e>A {gef}e>c | {Gdc}d>f {gef}e>d {gcd}c<{e}A {GAG}A>f ||
-{g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a c<{GdG}e {gfg}f>{g}B{G}B>f | {g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a {ef}e>d {gcd}c<{e}A {GAG}A>f |
-{g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a c<{GdG}e {gfg}f>{g}B{G}B>e | {ag}a>e {gfg}f>d {g}c<{GdG}e {ag}a>e | {gfg}f>d {g}B/c/d {gcd}c<{e}A {GAG}A2|]
+{g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a c<{GdG}e {gfg}f>{g}B {G}B>f | {g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a {ef}e>d {gcd}c<{e}A {GAG}A>f |
+{g}e<a {cd}c<a {Gdc}d>g {fg}f>e | {g}f/g/a c<{GdG}e {gfg}f>{g}B {G}B>e | {ag}a>e {gfg}f>d {g}c<{GdG}e {ag}a>e | {gfg}f>d {g}B/c/d {gcd}c<{e}A {GAG}A2|]
 
 X:3
 T:Bessie McIntyre
@@ -33,11 +33,11 @@ L:1/8
 C:Wm. Maclean
 R:Reel
 K:D
-a | A<{d}A {gef}e>c {g}e>f{gef}e>c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A<{d}A{gef}e>c {g}e>f{gef}e>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a |
-{g}A<{d}A{gef}e>c {g}e>f{gef}e>c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A<{d}A{gef}e>g {a}f2 {GdG}e>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e>f ||
-a2 {GdG}a>e {g}f>e{g}c<e | a2 {GdG}a>e {gfg}f2 {g}e>f | a2 {GdG}a>e {g}f<ae>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e>f |
-a2 {GdG}a>e {g}f>e{g}c<e | a2 {GdG}a>e {gfg}f2 {g}e>f | a>f{g}e>f {gfg}e>c{g}{g}B<{d}A | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a ||
-A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a |
-A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {g}A<{d}A{g}c<e {g}f>e{g}f<a | A<{d}A{g}e>g {a}f2 {GdG}e>c | {g}B<{d}B{g}c<e {gfg}f2 {g}e>f ||
-{ag}a2 c<a e<ac<e | {ag}a2 c<a {fg}f>e{g}f>g | {ag}a2 c<a e<ac<a | B<{d}B{g}c<e {gfg}f2 {g}e>f |
-{ag}a2 c<a e<ac<e | {ag}a2 c<a {fg}f>e{g}f>g | a>f{g}e>f {geg}e>c{g}B{d}<A | {g}B<{d}B{g}c<e {gfg}f2 {g}e<a |]
+[|{gAd}A2 e>c {g}e>f{g}e>c | {gAd}A2 {g}c<e {g}f>e{g}f<a | {Ad}A2 e>c {g}e>f{g}e>c | {gBd}B2 {g}c<e {gfg}f2 {g}e<a |
+{gAd}A2 e>c {g}e>f{g}e>c | {gAd}A2 {g}c<e {g}f>e{g}f<a |{Ad}A2 {g}e>g {a}f2 {GdG}e>c | {gBd}B2 {g}c<e {gfg}f2 {g}e>f ||
+a2 {GdG}a>e {g}f>e{g}c<e | a2 {GdG}a>e {gfg}f2 {g}e>f | a2 {GdG}a>e {g}f<ae>c | {gBd}B2 {g}c<e {gfg}f2 {g}e>f |
+a2 {GdG}a>e {g}f>e{g}c<e | a2 {GdG}a>e {gfg}f2 {g}e>f | a>f{g}e>f {gfg}e>c{g}B<{d}A | {gBd}B2 {g}c<e {gfg}f2 {g}e<a ||
+A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {gAd}A2 {g}c<e {g}f>e{g}f<a | A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {gBd}B2 {g}c<e {gfg}f2 {g}e<a |
+A>{d}A{e}A>{d}c {g}A>{d}A{e}A>{d}c | {gAd}A2 {g}c<e {g}f>e{g}f<a | {Ad}A2 {g}e>g {a}f2 {GdG}e>c | {gBd}B2 {g}c<e {gfg}f2 {g}e>f ||
+{ag}a2 c<a e<ac<e | {ag}a2 c<a {fg}f>e{g}f>g | {ag}a2 c<a e<ac<a | {gBd}B2 {g}c<e {gfg}f2 {g}e>f |
+{ag}a2 c<a e<ac<e | {ag}a2 c<a {fg}f>e{g}f>g | a>f{g}e>f {geg}e>c{g}B{d}<A | {gBd}B2 {g}c<e {gfg}f2 {g}e<a |]
