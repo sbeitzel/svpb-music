@@ -10,7 +10,7 @@ O:Dunoon, UK
 M:3/4
 L:1/8
 K:D
-[|: {g}A>B {Gdc}d2 {e}A2 | {g}f>g {ag}a2 {Gdc}d2 | {g}e3 B | {g}f>d {gfg}f2 {g}e2 |
+[|: {g}A>B {Gdc}d2 {e}A2 | {g}f>g {ag}a2 {Gdc}d2 | {g}e>f {gf}(g2 g)B | {g}fd {gfg}f2 {g}e2 |
 {g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 :|]
 [|: {g}f>g {ag}a2 {Gdc}d2 | {gf}gf {gfg}f2 | {g}f>g {ag}a2 {Gdc}d>c | {gBd}Be {gcd}c2 {e}A2 |
 {g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 :|]
@@ -27,8 +27,10 @@ K:D
 {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e |
 {gAGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
 {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e ||
-[ {ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
- {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]
+{ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e |
+{ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]
 
 X:3
 T:Requiem For The Stewart Tartan
