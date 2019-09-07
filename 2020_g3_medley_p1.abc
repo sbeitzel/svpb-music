@@ -3,44 +3,58 @@ I:abc-include style.abh
 %%footer "Page $P	SVPB G3 Medley 2020	Generated: $D"
 %%landscape 1
 X:1
+T:Scrappy's Challenge
+R:Hornpipe
+C:Colin Elder
+M:2/4
+L:1/16
+K:D
+[|: "2nd time only" f2 | {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {gAGAG}A2{d}ce {g}eA{d}ce | {g}dAe{g}(f f)e{g}dB |
+["2nd time 2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]]
+[|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
+["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:3/4] | {g}Acd{gef}(e e)d{g}cB {g}Ae{g}ec [M:6/8] "Jig Time"|  {Gdc}d12 |]]
+
+X:2
 T:Graeme of Old Birkwood
 C:Ryan Canning
 L:1/8
 R:Jig
 M:6/8
 K:D
-[|: e | {gAGAG}A2 {d}A {g}A{d}Bd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 a | e{g}e{A}e [2 "2 of 2nd part" {g}deg |
-{AGAG}A2 {d}A {g}A{d}Bd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 :|]
-[|: f | {a}ge{A}e {g}efg | age {geA}e2 f | {g}d{e}d{A}d {g}Bdg | {a}edB [1 {gBeBG}B2 f |
-{a}ge{A}e {g}efg} | age {g}efg |{gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 :|]
-[|: a | A{d}B{e}G {gAd}A2 e | {gde}dB{d}A {gBd}B2 d | {g}e2 {GdG}e {gAGAG}A2 e | {gde}dB{d}A {gGd}Gge |
-[2 "2 of 4th part" {g}A{d}B{e}G {gAd}A2 e | {gde}dB{d}A {gBd}B2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 :|]
-[|: e | {a}gag {ef}edB | {a}gag {ef}e2 f | {a}ge{A}e {g}d{e}d{G}d | {gBd}Bge {gdedG}d2 e |
-[1 {a}gag {ef}edB | {a}gag {ef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 :|]
-
-X:2
-T:MacArthur Road
-R:Reel
-C:Dave Richardson
-L:1/8
-M:C|
-K:D
+[| {g}A2 {d}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 a | e{g}e{A}e {g}deg |
+{AGAG}A2 {d}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 e |
+{AGAG}A2 {d}A {g}ABd | {g}de{A}e {gef}edB | {gef}edB {gf}g2 a |  e{g}e{A}e {g}deg |
+{AGAG}A2 {d}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 f||
+{a}ge{A}e {g}efg | age {geA}e2 f | {g}d{e}d{A}d {g}Bdg | {a}edB {g}B2 f |
+{a}ge{A}e {g}efg | age {g}efg |{gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 f|
+{a}ge{A}e {g}efg | age {geA}e2 f | {g}d{e}d{A}d {g}Bdg | {a}edB {gef}edB |
+{g}A{d}A{e}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A3 |]
 
 X:3
-T:Scrappy's Challenge
-R:Hornpipe
-C:Colin Elder
-M:2/4
+T:The Soup Dragon
+C:Gordon Duncan
 L:1/8
+R:Jig
+M:6/8
 K:D
+[|: {g}fB{G}B {g}BAB | {g}ef{e}f {g}fed | e{g}e{A}e {gef}e2 d | {g}ef{e}f {g}ede |
+{g}fB{G}B {g}BAB | {g}ef{e}f {g}fed | e{g}e{A}e {g}f2 e | ["1." {g}dB{d}A {gBG}B3 :|] ["2." {g}dB{d}A {gBG}B2 e||
+[|: {g}fa{g}a {g}afd | {g}ef{e}f {g}fed | e{g}e{A}e {gef}e2 d | {g}ef{e}f {g}ede |
+["1." {g}fa{g}a {g}afd | {g}ef{e}f {g}fed | e{g}e{A}e {g}f2 e | {g}dB{d}A {gBG}B2 e :|]
+["2." {g}fB{G}B {g}BAB | {g}ef{e}f {g}fed [M:9/8] | e{g}e{A}e {g}f2 e | {g}dB{d}A [M:3/4] "Slow Air Tempo" | {GdG}B4 {g}A>{d}A |]
 
 X:4
-T:Willie Murray
-C:Traditional
-R:Reel
-M:C|
+T:Miss Dorothy Miller
+C:Ryan Canning
+R:Slow Air
+M:4/4
 L:1/8
 K:D
+[|{ge}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 {ag}(a2 a)A {gAGAG}A>d |
+{ge}f2 {g}(f2 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/c/ | {g}(d4 d)A{d}A {g}e>f |
+{gf}g2 {a}(g2 g)A/{d}A/ {gf}g>a | g/f/{e}f {g}(f2 f)A/{d}A/ {g}e>f | {gf}g2 {a}(g2 g)A/{d}A/ {g}e/f/g/f/ | {gef}e2 {ag}(a2 a)A {gAGAG}A>d |
+{ge}f2 {g}(f2 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B [M:3/4] | {gde}d/B/{G}(A A){g}(A A){GAG}A [M:5/4] "Strathspey Tempo"| {g}AB {g}d4 {g}d<(c c2) |]
 
 X:5
 T:Fiddler's Joy
@@ -50,12 +64,34 @@ C:Trad., arr. by Adam Blaine
 M:C
 L:1/8
 K:D
-[|: {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A :|]
+[|: {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A :|]
 {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g | {cd}c<{e}A g/f/e {Gdc}d2 {ag}a2 |]
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A g/f/(He "Reel Tempo"| e2) |]
 
 X:6
-T:The Soup Dragon
-C:Gordon Duncan
-R:Jig
+T:Willie Murray
+C:Traditional
+R:Reel
+M:C|
+L:1/8
 K:D
+[| {Gdc}d2 {g}Bc {g}dB{G}Bc | {Gdc}d2 {g}Bc {g}dB{g}fB | {Gdc}d2 {g}Bc {g}dB{G}Bd | {g}c{d}A{e}AB {g}cd{g}ec |
+{Gdc}d2 {g}Bc {g}dB{G}Bc | {g}dB{G}Bc {g}dB{g}fB | {Gdc}d3 c {g}dB{G}Ba | {g}c{d}A{e}AB {g}cd{g}ec ||
+{g}Aaga fd {ag}a2 | fd{G}de {g}fgaf | {g}Aaga fd {ag}a2  | {g}c{d}A{e}AB {g}cd{g}ec | 
+{g}Aaga fd {ag}a2 | fd{G}de {g}fgaf | {gf}g2 af {a}ge{g}fd | {g}c{d}A{e}AB {g}cd{g}ec |]
+
+X:7
+T:MacArthur Road
+R:Reel
+C:Dave Richardson
+L:1/8
+M:C|
+K:D
+[|{g}dA {gAGAG}A2 {g}AB{g}de | {fege} f2 {g}fd {g}ed{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Be |
+{g}dA {gAGAG}A2 {g}AB{g}de | {fege} f2 {g}fd {g}ed{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A| {g}AB{g}de {Gdc}d2 {g}de ||
+{g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Bd |
+{g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A | {g}AB{g}de {Gdc}d2 {g}de |
+{g}fA {gAGAG}A2 {g}fAgA | {g}fAgA {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}e4 {g}f2g2 |
+"    Welcome back to the opener"{ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
+{ag}a2Aa dafA | {gBeBG}B2gB {G}(A4 | "Harmonies bringing it back"(A8) | A8) | 
+{gef}e2 {A}ef {g}ed{g}Bd | {g}e(a a)f {g}ed{g}B{d}A | {gef}e2 {A}ef {g}ed{g}B{d}A| {g}AB{g}de {g}d4 |]
