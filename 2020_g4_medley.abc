@@ -33,6 +33,22 @@ K:D
 {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]
 
 X:3
+T:Jimmy Ward's Jig
+R:Jig
+Z:Transcribed 27 November, 2017 by Stephen Beitzel
+C:Trad. arr Adam Blaine
+M:6/8
+L:1/8
+K:D
+[| {Gdc}d3 {g}def | {g}edB {g}dBA | {g}d{e}d{G}d {g}edB | {g}dBA {g}ABc | 
+{Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc | 
+{Gdc}(d3 d)ef | {g}edB {g}dBA | {g}d{e}d{G}d {g}edB | {g}dBA {g}ABc | 
+{Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}def ||
+[|:{gf}g2 e {g}fed | {g}efe {gef}edB | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}def |
+{gf}g2 e {g}fed | {g}efe {gef}efg | age {g}edB | {g}dBA ["1" {GAG}A2 f :|] ["2" {GdG}B3 |]
+
+
+X:4
 T:Requiem For The Stewart Tartan
 R:Death March
 C:Adam Blaine
@@ -46,7 +62,7 @@ K:D
 {g}f4 {ag}a2 | {e}f4 {g}e<d | {gef}e4 A2 |[M: 4/4] {gB}c6 d2 |
 [M: 3/4]"   All together now"{g}B4 d2 | {ge}f4 {g}e<d | {gcd}c<{e}(B HB4) |]
 
-X:4
+X:5
 T:Molly Connell
 R:Strathspey
 L:1/8
