@@ -12,7 +12,7 @@ L:1/8
 K:D
 [|: {g}A>B {Gdc}d2 {e}A2 | {g}f>g {ag}a2 {Gdc}d2 | {g}e>f {gf}(g2 g)B | {g}fd {gfg}f2 {g}e2 |
 {g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 :|]
-[|: {g}f>g {ag}a2 {Gdc}d2 | {gf}gf {gfg}f2 | {g}f>g {ag}a2 {Gdc}d>c | {gBd}Be {gcd}c2 {e}A2 |
+[|: {g}f>g {ag}a2 {Gdc}d2 | {gf}gf {gfg}f2 {g}e2 | {g}f>g {ag}a2 {Gdc}d>c | {gBd}Be {gcd}c2 {e}A2 |
 {g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 :|]
 
 X:2
@@ -43,9 +43,9 @@ K:D
 [| {Gdc}d3 {g}def | {g}edB {g}dBA | {g}d{e}d{G}d {g}edB | {g}dBA {g}ABc | 
 {Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc | 
 {Gdc}(d3 d)ef | {g}edB {g}dBA | {g}d{e}d{G}d {g}edB | {g}dBA {g}ABc | 
-{Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}def ||
-[|:{gf}g2 e {g}fed | {g}efe {gef}edB | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}def |
-{gf}g2 e {g}fed | {g}efe {gef}efg | age {g}edB | {g}dBA ["1" {GAG}A2 f :|] ["2" {GdG}B3 |]
+{Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc ||
+[|:{gf}g2 e {g}fed | {g}efe {g}edB | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc |
+{gf}g2 e {g}fed | {g}efe {g}efg | age {g}edB | {g}dBA ["1" {GAG}A2 f :|] ["2" {GAG}A3 |]
 
 
 X:4
@@ -74,3 +74,17 @@ K:D
 [|: {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f<a f/e/c {gef}e>c {gBd}B2 | {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f/e/c {gef}e>c {gBd}B2 {G}A2 :|]
 {ag}a2 e<a f/e/c {gef}e2 | {g}c<e {A}e>f {gef}e>c {gBd}B2 | {ag}a2 e<a f/e/c {gef}e2 | {g}f>e {A}e>c {gBd}B2 {G}A2 |
 {ag}a2 e<a f/e/c {gef}e2 | {g}c<e {A}e>f {gef}e>c {gBd}B2 | {gcd}c2 {e}A>{d}c {g}e>f {ag}a>e | {g}f/e/c {gef}e>c {gBd}B2 {G}A2 |]
+
+X:6
+T:Mrs. MacLeod of Raasay
+R:Reel
+L:1/8
+C:Trad.
+M:C|
+L:1/8
+K:D
+[| {g}A2 {ag}a2 {fg}fe{g}fa | c{g}c{G}cB c{g}c{G}cB | {g}A2 {ag}a2 {fg}fe{g}fa | B{g}B{G}BA {g}BdcB |
+ {g}A2 {ag}a2 {fg}fe{g}fa | c{g}c{G}cB {g}cdec | {g}f3 e {g}fe{g}fg | afec {g}Bd{g}cB  ||
+{g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB c{g}c{G}cB | {g}A3 {d}c {g}eA{d}ca | B{g}B{G}BA {g}BdcB |
+{g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB {g}c2 | {e}(A8 | A6) {g}e2 |
+ f2 {g}f2 {e} fe{g}fg | afec {g}Bd{g}cB | A4 |] 
