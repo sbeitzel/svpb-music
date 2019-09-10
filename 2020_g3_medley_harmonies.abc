@@ -1,0 +1,37 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G3 Medley 2020	Generated: $D"
+%%landscape 1
+X:4
+T:MacArthur Road
+T: Seconds
+R:Reel
+C: Adam Blaine
+L:1/8
+M:C|
+K:D
+[|{g}dA {gAGAG}A2 {g}AB{g}de | {fege} f2 {g}fd {g}ed{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Be |
+{g}dA {gAGAG}A2 {g}AB{g}de | {fege} f2 {g}fd {g}ed{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A| {g}AB{g}de {Gdc}d2 {g}de ||
+{g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}d4 {e}A4 |
+{g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}AB{g}de {Gdc}d2 {g}de |
+{g}dA {gAGAG}A2 {g}dAeA | {g}dAeA {g}d4| {g}A8 | {g}c4 {g}f2g2 |
+"    Welcome back to the opener"{g}f8| {gf}g8 | (e8 | e2) f2 g2 e2 |
+{g}f8 | {gf}g4 e4 | "Harmonies bringing it back"(f8 | f8) | 
+{ag}a8 | {g}e(a a)f {g}ed{g}Bd | {ag}a8 | {g}a2 g2 f2 z2|]
+
+X:4
+T:MacArthur Road
+T: Thirds
+R:Reel
+C:Adam Blaine
+L:1/8
+M:C|
+K:D
+[|{g}dA {gAGAG}A2 {g}AB{g}de | {fege} f2 {g}fd {g}ed{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Be |
+{g}dA {gAGAG}A2 {g}AB{g}de | {fege} f2 {g}fd {g}ed{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A| {g}AB{g}de {Gdc}d2 {g}de ||
+{g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Bd |
+{g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A | {g}AB{g}de {Gdc}d2 {g}de |
+{g}f4 {g}f2 g2 | f2 g2 f4 | {g}(e8 | e4) {g}f2g2 |
+"    Welcome back to the opener"{g}d8| {g}B8 | {e}(A8 | A2) B2 c2 A2 |
+{g}d8 | {g}B4 c4 | "Harmonies bringing it back" | {g}dA {gAGAG}A2 {g}AB{g}de | {g}faga eA{g}Bd |
+{gef}e2 {A}ef {g}ed{g}Bd | {g}e(a a)f {g}ed{g}Bd | {g}A8 | {g}d2 B2 {g}A2 z2|]
