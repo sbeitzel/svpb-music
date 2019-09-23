@@ -2,7 +2,36 @@
 I:abc-include style.abh
 %%footer "Page $P	SVPB G3 Medley 2020	Generated: $D"
 %%landscape 1
+%%scale 0.65
+
+X:3
+T:Miss Dorothy Miller
+T:Seconds
+C:Ryan Canning
+R:Slow Air
+M:4/4
+L:1/8
+K:D
+[|{ge}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 (A2 A){g}A {gAGAG}A>B |
+{gc}d2 {g}(d2 d)A/{d}A/ {gc}d>a | {g}a/f/{a}(g g) {f}(g (g)g) {a}g/a/{g}a/g/ | a/g/{a}(f f){g}(f f){e}f {g}e/f/{a}g/a/| {ge}(f2 (f2) f)A/{d}A/ {g}c>A ||
+{gc}d2 {g}(d2 d)A/{d}A/ {gc}d>c | {g}d/A/{G}A {g}(A2 A){g}A/{d}A/ {g}c>B | {gc}(d2 (d2) d)A/{d}A/ {g}cd{g}d/{G}d/ | {g}A2 {g}(e2 e)A {gAGAG}A>B |
+{gc}d2 {g}(d2 d)A/{d}A/ {gc}d>a | {g}a/f/{a}(g g) {f}(g (g)g) {a}g/a/{g}a/g/ [M:3/4] |  a/g/{a}(f f){g}(f f)a [M:5/4] "Strathspey Tempo"| {g}a2 (g2 (g2) (g2) g2) |]
+
 X:4
+T:Fiddler's Joy
+T:Seconds
+R:Strathspey
+Z:Transcribed 31 May, 2018 by Stephen Beitzel
+C:Trad., arr. by Adam Blaine
+M:C
+L:1/8
+K:D
+[| {a}f8| {g}e8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A ||
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A g/f/(He "Reel Tempo"| e2) |]
+
+X:5
 T:MacArthur Road
 T: Seconds
 R:Reel
@@ -19,9 +48,36 @@ K:D
 {g}f8 | {gf}g4 e4 | "Harmonies bringing it back"(f8 | f8) | 
 {ag}a8 | {g}e(a a)f {g}ed{g}Bd | {ag}a8 | {g}a2 g2 f2 z2|]
 
+X:3
+T:Miss Dorothy Miller
+T:Thirds
+C:Ryan Canning
+R:Slow Air
+M:4/4
+L:1/8
+K:D
+[|{ge}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 (A2 A){g}A {gAGAG}A>B |
+{gc}d2 {g}(d2 d)A/{d}A/ {gc}d>a | {g}a/f/{a}(g g) {f}(g (g)g) {a}g/a/{g}a/g/ | a/g/{a}(f f){g}(f f){e}f {g}e/f/{a}g/a/| {ge}(f2 (f2) f)A/{d}A/ {g}c>A ||
+{gc}d2 {g}(d2 d)A/{d}A/ {gc}d>c | {g}d/A/{G}A {g}(d2 d){g}A/{d}A/ {g}c>B | {gc}(d2 (d2) d)A/{d}A/ {g}A/B/{g}B/{G}B/ | {g}A2 {g}(c2 c)A {gAGAG}A>d |
+{ag}a2 {g}(a2 a)f/{e}f/ {ag}a>e | {A}e/f/{g}(d2 (d2) d2) {a}g/a/{g}a/g/ [M:3/4] |  a/g/{a}(d d){g}(d d){G}d  [M:5/4] "Strathspey Tempo"| {g}(d2 (d2) d2) {g}d<(c c2) |]
+
 X:4
+T:Fiddler's Joy
+T:Thirds
+R:Strathspey
+Z:Transcribed 31 May, 2018 by Stephen Beitzel
+C:Trad., arr. by Adam Blaine
+M:C
+L:1/8
+K:D
+[| {Gdc}d8| {g}c8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A ||
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A g/f/(He "Reel Tempo"| e2) |]
+
+X:5
 T:MacArthur Road
-T: Thirds
+T:Thirds
 R:Reel
 C:Adam Blaine
 L:1/8
