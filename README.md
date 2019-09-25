@@ -17,7 +17,7 @@ and sends a message to Slack.
 
 1. create the new branch and push it to Github
 1. log in to the build server and, in the `repos` directory, clone the new branch:
- `git clone --single-branch --branch <year> https://github.com/sbeitzel/svpb-music.git <year>`
+ `git clone --single-branch --branch <year> https://github.com/SVPB/svpb-music.git <year>`
 
 # Process and Tools
 
