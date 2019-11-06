@@ -43,7 +43,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc
 CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
-    highland_cathedral.abc hector_hero.abc grans.abc water_wide_air.abc
+    highland_cathedral.abc hector_hero.abc grans.abc water_wide_air.abc o_faithful.abc
 
 ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)

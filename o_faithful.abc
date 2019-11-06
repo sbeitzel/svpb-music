@@ -1,0 +1,22 @@
+%abc-2.2
+%%landscape 1
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y %H:%M"
+X:1
+T:O Come All Ye Faithful
+R:Hymn
+C:Trad.
+L:1/4
+M:C
+K:D
+d | {g}d2 A d | {gef}e2 {AGAG}A2 | {gfg}f e {g}f g |
+{fg}f2 {gef}e d | {gde}d2 c B | {gcd}c d {gef}e f |
+{gcd}c2 {gBd}B>{G}A | {g}A2 {GAG}A2 | {ag}a2 g f |
+{gf}g2 {fg}f2 | {gef}e f {Gdc}d e | {gcd}c > B {G}A d |
+{gde}d c d e | {Gdc}d2 {e}A f | {gfg}f e {g}f g |
+{fg}f2 {gef}e f | {gf}g f {g}e d | {gcd}c2 {Gdc}d g |
+{fg}f2 {gef}e > d | {gdG}d2 |
