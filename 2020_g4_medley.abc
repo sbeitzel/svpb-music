@@ -91,9 +91,23 @@ K:D
 {g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB c{g}c{G}cB | {g}A3 {d}c {g}eA{d}ca | B{g}B{G}BA {g}Bd{g}cB |
 {g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB {g}c2 e2 | {g}f3 e {g}fe{g}fg | af{g}ec {g}Bd{g}cB |]
 
-
 X:7
 T:Hamilton's Nutsack
+R:Reel
+L:1/8
+C:Terry Tully
+M:C|
+L:1/8
+K:D
+{g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}fe {g}ef{g}dB |
+{g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}A2 |
+ae{A}ea Bc{g}c{G}c | ae{A}ea Bc{g}ec | af{e}fa cd{g}d{G}d | {g}fa{g}af {g}ef{g}dB |
+ae{A}ea Bc{g}c{G}c | ae{A}ef {ag}a4 | {g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef |
+cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}(A4 | A4) z4 |]
+ 
+X:8
+T:Hamilton's Nutsack
+T:Seconds
 R:Reel
 L:1/8
 C:Terry Tully
