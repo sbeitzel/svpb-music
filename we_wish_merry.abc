@@ -10,13 +10,9 @@ L:1/8
 M:3/4
 K:HP
 P:A
- |:{g}A2|{Gdc}d2 {g}de {g}dc|{gBd}B2 {e}B2 {d}B2|{gef}e2 {g}ef {g}ed|\
-{gcd}c2 {d}A2 {g}A2|
-{gfg}f2 {g}fg {afg}fe|{gde}d2 {e}B2 {g}A{d}A|{gBd}B2 {g}e2 {g}c2|\
-{Gdc}d2 d2:|
+|: {g}A2 | {Gdc}d2 {g}de {g}dc | {gBd}B2 {e}B2 {d}B2 | {gef}e2 {g}ef {g}ed | {gcd}c2 {d}A2 {g}A2 |
+{gfg}f2 {g}fg {afg}fe | {gde}d2 {e}B2 {g}A{d}A |{gBd}B2 {g}e2 {g}c2 | {Gdc}d4 :|
 P:B
- |:{g}A2|{Gdc}d2 {g}d2 {c}d2|{gcd}c4 {GdG}c2|{Gdc}d2 {gcd}c2 {d}B2|\
-{gAd}A4 {g}e2|
-{gfg}f2 {g}e{A}e {g}d{A}d|{ag}a2 {d}A2 {g}A{d}A|{gBd}B2 {g}e2 {g}c2|\
-{Gdc}d4:|
+|: {g}A2 |{Gdc}d2 {g}d2 {c}d2 | {gcd}c4 {GdG}c2|{Gdc}d2 {gcd}c2 {d}B2 | {gAd}A4 {g}e2 |
+{gfg}f2 {g}e{A}e {g}d{A}d | {ag}a2 {d}A2 {g}A{d}A |{gBd}B2 {g}e2 {g}c2 | {Gdc}d4 :|
 

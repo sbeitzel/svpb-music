@@ -42,8 +42,8 @@ PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc grans.abc al_
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc
-CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
-    highland_cathedral.abc hector_hero.abc grans.abc water_wide_air.abc o_faithful.abc
+CHRISTMAS = banks_of_the_lossie.abc irish_set.abc we_wish_merry.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
+    highland_cathedral.abc grans.abc water_wide_air.abc o_faithful.abc
 
 ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
@@ -51,7 +51,7 @@ PDFFILES = $(PSFILES:.ps=.pdf)
 
 CONCERT_ABC = $(CHRISTMAS)
 CONCERT_PS = $(CONCERT_ABC:.abc=.ps)
-CONDERT_PDF = $(CONCERT_PS:.ps=.pdf)
+CONCERT_PDF = $(CONCERT_PS:.ps=.pdf)
 
 WUSPBA_SECTION = wuspba.pdf
 PARADE_SECTION = parade.pdf
@@ -135,7 +135,7 @@ $(PDFFILES): %.pdf: %.ps
 $(CONCERT_PS): %.ps: %.abc
 	-$(ABC) $<
 
-$(CONDERT_PDF): %.pdf: %.ps
+$(CONCERT_PDF): %.pdf: %.ps
 	$(PDF) $<
 
 clean:
